@@ -2,13 +2,21 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-09-18  
-Generated at: 2026-09-18 06:04:02 UTC
+Generated at: 2026-09-18 06:04:12 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-No lead digest was delivered.
+### Squad lead
+
+Hey Dan - an urgent bug with no owner and an urgent story due tomorrow with no code both need an ownership call today.
+
+🚧 **Worth a look**
+
+[**Reassigned jobs keep notifying the original crew**](https://linear.app/tidebreak-demo/issue/DIS-83/reassigned-jobs-keep-notifying-the-original-crew) (DIS-83) - Urgent customer-reported bug (Harbour Facilities - crews turning up at the wrong site), in Todo since Sep 14 (~4 days). No assignee, no code activity, no comments.
+
+[**Bulk import for a new depot's crew roster**](https://linear.app/tidebreak-demo/issue/DIS-85/bulk-import-for-a-new-depots-crew-roster) (DIS-85) - Urgent, due Sep 19 (tomorrow). In Progress since Sep 12 (~6 days), sitting with Maya Ortiz - no branch, no PR, no code activity across any repo.
 
 ## Developer digests
 
