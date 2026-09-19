@@ -1,31 +1,27 @@
 # Daily Digest
 
 Squad: #tidebreak-dispatch  
-Date: 2026-09-18  
-Generated at: 2026-09-18 06:04:12 UTC
+Date: 2026-09-19  
+Generated at: 2026-09-19 06:03:54 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-### Squad lead
-
-Hey Dan - an urgent bug with no owner and an urgent story due tomorrow with no code both need an ownership call today.
-
-🚧 **Worth a look**
-
-[**Reassigned jobs keep notifying the original crew**](https://linear.app/tidebreak-demo/issue/DIS-83/reassigned-jobs-keep-notifying-the-original-crew) (DIS-83) - Urgent customer-reported bug (Harbour Facilities - crews turning up at the wrong site), in Todo since Sep 14 (~4 days). No assignee, no code activity, no comments.
-
-[**Bulk import for a new depot's crew roster**](https://linear.app/tidebreak-demo/issue/DIS-85/bulk-import-for-a-new-depots-crew-roster) (DIS-85) - Urgent, due Sep 19 (tomorrow). In Progress since Sep 12 (~6 days), sitting with Maya Ortiz - no branch, no PR, no code activity across any repo.
+No lead digest was delivered.
 
 ## Developer digests
 
-### Maya Ortiz
+### Priya Raman
 
-Hey Maya - quick flag before the weekend so nothing catches you off guard:
+Hey Priya - couple of things that might be worth a quick nudge this weekend or Monday:
 
 🚧 **Needs your next move**
 
-[**Bulk import for a new depot's crew roster**](https://linear.app/tidebreak-demo/issue/DIS-85/bulk-import-for-a-new-depots-crew-roster) - this is Urgent and due tomorrow, but there's no branch or PR linked yet after ~6 days In Progress. If the work is happening somewhere we can't see (local branch, different repo, spike doc), linking it to the story would help keep things visible - and if it's blocked or needs to be rescoped, updating the story now saves a weekend surprise.
+[**Persist board filters per user**](https://linear.app/tidebreak-demo/issue/DIS-71/persist-board-filters-per-user) - you replied to Dan's review on [PR #26](https://github.com/tidebreak-demo/dispatch-web/pull/26) two days ago and he hasn't come back yet. Might be worth re-requesting his review or giving him a ping so it doesn't drift.
+
+🍏 **Cleanup**
+
+[**Stop the board losing a filter on refresh**](https://linear.app/tidebreak-demo/issue/DIS-84/stop-the-board-losing-a-filter-on-refresh) - [PR #33](https://github.com/tidebreak-demo/dispatch-api/pull/33) was closed without merge but the story still shows In Review. If the approach is shelved until the preferences table migration lands, could you move it back to Backlog?
 
 Heads-up for you first - unresolved items may later show in your squad lead's digest.
