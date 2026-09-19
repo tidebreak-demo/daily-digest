@@ -2,13 +2,25 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-09-19  
-Generated at: 2026-09-19 06:03:54 UTC
+Generated at: 2026-09-19 06:04:10 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-No lead digest was delivered.
+### Squad lead
+
+Hey Dan - Priya's comment on the unassigned crew-notification bug is a new escalation, and two items involving your own review queue need a quick call.
+
+🚧 **Worth a look**
+
+[**Reassigned jobs keep notifying the original crew**](https://linear.app/tidebreak-demo/issue/DIS-83/reassigned-jobs-keep-notifying-the-original-crew) (DIS-83) - Since yesterday's digest, Priya Raman commented "Happened again this morning. Two crews, one job, nobody looking at it." Urgent customer-reported bug, still unassigned after 5 days in Todo, no code activity.
+
+[**Persist board filters per user**](https://linear.app/tidebreak-demo/issue/DIS-71/persist-board-filters-per-user) (DIS-71) - In Review since Sep 16. You requested changes on [#26](https://github.com/tidebreak-demo/dispatch-web/pull/26) Sep 16; Priya replied Sep 17 explaining the key is already scoped per workspace and asked if anything else is needed. No re-review from you in ~2 days - the ball is on your side.
+
+🍏 **Cleanup**
+
+[**Stop the board losing a filter on refresh**](https://linear.app/tidebreak-demo/issue/DIS-84/stop-the-board-losing-a-filter-on-refresh) (DIS-84) - High priority, still marked In Review, but Priya closed [#33](https://github.com/tidebreak-demo/dispatch-api/pull/33) without merge on Sep 18 - "per-user state needs the preferences table, and that is someone else's migration." Story state no longer reflects reality; likely needs to move back to Backlog until the dependency is resolved.
 
 ## Developer digests
 
