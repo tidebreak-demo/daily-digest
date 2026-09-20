@@ -2,13 +2,22 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-09-20  
-Generated at: 2026-09-20 06:12:42 UTC
+Generated at: 2026-09-20 06:12:54 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-No lead digest was delivered.
+### Squad lead
+
+Hey Dan - the bulk-import feature for Harbour Facilities passed its due date yesterday with no code started, and your comment to Maya is still unanswered.
+
+🚧 **Worth a look**
+
+[**Bulk import for a new depot's crew roster**](https://linear.app/tidebreak-demo/issue/DIS-85/bulk-import-for-a-new-depots-crew-roster) (DIS-85) - Sitting with Maya Ortiz for 2 working days. Urgent, due Sep 19 - now overdue. In Progress since Sep 17 (~3 days), no code activity across any repo. Your Sep 19 comment asking if this is still on has no reply. Maya has been active on other work ([#14](https://github.com/tidebreak-demo/crew-mobile/pull/14), [#37](https://github.com/tidebreak-demo/dispatch-api/pull/37)).
+
+:rocket: **What's done since last digest**  
+:white_check_mark: [DIS-71 Persist board filters per user](https://linear.app/tidebreak-demo/issue/DIS-71/persist-board-filters-per-user)
 
 ## Developer digests
 
