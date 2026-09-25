@@ -2,7 +2,7 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-09-25  
-Generated at: 2026-09-25 06:02:46 UTC
+Generated at: 2026-09-25 06:02:50 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -11,6 +11,18 @@ Generated at: 2026-09-25 06:02:46 UTC
 No lead digest was delivered.
 
 ## Developer digests
+
+### Maya Ortiz
+
+Hey Maya - couple of things on crew-mobile that might need a nudge:
+
+🚧 **Needs your next move**
+
+[**Warn the crew before a shift handover drops their notes**](https://linear.app/tidebreak-demo/issue/DIS-70/warn-the-crew-before-a-shift-handover-drops-their-notes) - Dan requested changes on [PR #14](https://github.com/tidebreak-demo/crew-mobile/pull/14) back on Sep 19 and there have been no new commits or replies since. If you're still working on the fix, pushing an update would get the review moving again.
+
+[**Badge jobs that still have unsent changes**](https://linear.app/tidebreak-demo/issue/DIS-82/badge-jobs-that-still-have-unsent-changes) - [PR #16](https://github.com/tidebreak-demo/crew-mobile/pull/16) has been waiting for review since Sep 22 with no activity from Dan yet. Might be worth pinging him or requesting another reviewer so it doesn't sit over the weekend.
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ### Tom Lindqvist
 
