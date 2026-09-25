@@ -2,13 +2,26 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-09-25  
-Generated at: 2026-09-25 06:02:50 UTC
+Generated at: 2026-09-25 06:03:04 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-No lead digest was delivered.
+### Squad lead
+
+Hey Dan - two urgent Northgate items need ownership calls today: the payroll export is overdue with no code, and the blank-signature bug is still unassigned and recurring. Maya's review fix has also gone quiet.
+
+🚧 **Worth a look**
+
+[**Crew availability export for payroll**](https://linear.app/tidebreak-demo/issue/DIS-87/crew-availability-export-for-payroll) (DIS-87) - Sitting with Tom Lindqvist for 3 working days. Urgent, In Progress since Sep 21, due Sep 23 - now 2 days overdue. Committed to Northgate Retail for month-end. No code activity across any repo. You commented Sep 24 asking whether payroll still expects it - no reply.
+
+[**Signature capture returns a blank image on older handsets**](https://linear.app/tidebreak-demo/issue/DIS-88/signature-capture-returns-a-blank-image-on-older-handsets) (DIS-88) - Urgent customer-reported bug, in Todo since Sep 20 (~5 days), no assignee, no code activity. Northgate Retail has two disputed jobs with no proof of completion. Priya Raman commented Sep 23 that it is still recurring - third report that day, same handset model.
+
+[**Warn the crew before a shift handover drops their notes**](https://linear.app/tidebreak-demo/issue/DIS-70/warn-the-crew-before-a-shift-handover-drops-their-notes) (DIS-70) - Sitting with Maya Ortiz for 3 working days. In Review since Sep 19; you requested changes on [#14](https://github.com/tidebreak-demo/crew-mobile/pull/14) Sep 19, no author commits or response in ~6 days.
+
+:rocket: **What's done since last digest**  
+:white_check_mark: [DIS-86 Decide how far back the mobile app syncs](https://linear.app/tidebreak-demo/issue/DIS-86/decide-how-far-back-the-mobile-app-syncs)
 
 ## Developer digests
 
