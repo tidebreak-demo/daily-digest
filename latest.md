@@ -2,7 +2,7 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-09-26  
-Generated at: 2026-09-26 06:02:49 UTC
+Generated at: 2026-09-26 06:02:50 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -11,6 +11,16 @@ Generated at: 2026-09-26 06:02:49 UTC
 No lead digest was delivered.
 
 ## Developer digests
+
+### Priya Raman
+
+Hey Priya - one thing that might need a nudge:
+
+🚧 **Needs your next move**
+
+[**Cache crew availability on the board**](https://linear.app/tidebreak-demo/issue/DIS-75/cache-crew-availability-on-the-board) - Dan's review on Sep 20 raised a design concern about double-bookings on [PR #29](https://github.com/tidebreak-demo/dispatch-web/pull/29), and there's been no reply yet. If the caching approach still makes sense, worth responding to his concern; if the direction needs rethinking, updating the story would help too.
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ### Maya Ortiz
 
