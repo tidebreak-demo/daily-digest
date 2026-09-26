@@ -2,13 +2,24 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-09-26  
-Generated at: 2026-09-26 06:02:50 UTC
+Generated at: 2026-09-26 06:02:58 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-No lead digest was delivered.
+### Squad lead
+
+Hey Dan - your changes-requested review on the caching story has gone unanswered for ~5 days, and Maya's PR is waiting on you for review.
+
+🚧 **Worth a look**
+
+[**Cache crew availability on the board**](https://linear.app/tidebreak-demo/issue/DIS-75/cache-crew-availability-on-the-board) (DIS-75) - Sitting with Priya Raman for 1 working day. In Review since Sep 20; you requested changes on [#29](https://github.com/tidebreak-demo/dispatch-web#29) Sep 20 raising a double-booking concern, no author commits or reply in ~5 days.
+
+[**Badge jobs that still have unsent changes**](https://linear.app/tidebreak-demo/issue/DIS-82/badge-jobs-that-still-have-unsent-changes) (DIS-82) - Sitting with Maya Ortiz for 1 working day. In Review since Sep 22; [#16](https://github.com/tidebreak-demo/crew-mobile/pull/16) open with you as requested reviewer, no review started in ~4 days.
+
+:rocket: **What's done since last digest**  
+:white_check_mark: [DIS-70 Warn the crew before a shift handover drops their notes](https://linear.app/tidebreak-demo/issue/DIS-70/warn-the-crew-before-a-shift-handover-drops-their-notes)
 
 ## Developer digests
 
