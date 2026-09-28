@@ -1,8 +1,8 @@
 # Daily Digest
 
 Squad: #tidebreak-dispatch  
-Date: 2026-09-27  
-Generated at: 2026-09-27 06:03:19 UTC
+Date: 2026-09-28  
+Generated at: 2026-09-28 13:14:08 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -14,11 +14,11 @@ No lead digest was delivered.
 
 ### Priya Raman
 
-Hey Priya - one thing that could use a quick nudge:
+Hey Priya - one review thread you could help move today:
 
 🚧 **Needs your next move**
 
-[**Reassign a crew's day in one pass**](https://linear.app/tidebreak-demo/issue/DIS-72/reassign-a-crews-day-in-one-pass) - dan-whitfield1 requested changes on [PR #31](https://github.com/tidebreak-demo/dispatch-web/pull/31) back on Sep 24, flagging overlap validation concerns. If you have a fix in mind, pushing a commit or dropping a reply would get things moving again.
+[**Reassign a crew's day in one pass**](https://linear.app/tidebreak-demo/issue/DIS-72/reassign-a-crews-day-in-one-pass) - the overlap-validation concern is still open after your Sep 25 reply; could you clarify or push the failure test, then ask [**PR #31**](https://github.com/tidebreak-demo/dispatch-web/pull/31) for re-review?
 
 Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
