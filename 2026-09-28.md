@@ -12,6 +12,16 @@ No lead digest was delivered.
 
 ## Developer digests
 
+### Tom Lindqvist
+
+Hey Tom - one thing you may be able to unblock:
+
+🚧 **Needs your next move**
+
+[**Crew availability export for payroll**](https://linear.app/tidebreak-demo/issue/DIS-87/crew-availability-export-for-payroll) - still no reviewable code path since Sep 25. Could you share or open one if this is active, or re-scope the issue if plans changed?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
+
 ### Priya Raman
 
 Hey Priya - one review thread you could help move today:
