@@ -2,13 +2,19 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-09-29  
-Generated at: 2026-09-29 06:02:36 UTC
+Generated at: 2026-09-29 06:02:46 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-No lead digest was delivered.
+### Squad lead
+
+Hey Dan - Maya's badge change is still waiting on human review.
+
+🚧 **Worth a look**
+
+Sitting with Maya Ortiz for 4 working days: [**Badge jobs that still have unsent changes**](https://linear.app/tidebreak-demo/issue/DIS-82/badge-jobs-that-still-have-unsent-changes) (DIS-82) - In Review since Sep 22 (~6.5 days); [#16](https://github.com/tidebreak-demo/crew-mobile/pull/16) is open with you requested as reviewer, and there has been no human review activity since Maya's Sep 22 changes.
 
 ## Developer digests
 
