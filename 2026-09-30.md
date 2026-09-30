@@ -2,13 +2,24 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-09-30  
-Generated at: 2026-09-30 06:02:52 UTC
+Generated at: 2026-09-30 06:03:02 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-No lead digest was delivered.
+### Squad lead
+
+Hey Dan - Maya's safeguard and Tom's webhook change both need a delivery or review path clarified.
+
+🚧 **Worth a look**
+
+Sitting with Tom Lindqvist for 1 working day: [**Retry failed dispatch webhooks with backoff**](https://linear.app/tidebreak-demo/issue/DIS-89/retry-failed-dispatch-webhooks-with-backoff) (DIS-89) - High priority, In Progress since Sep 27 (~~2.5 days); [#41](https://github.com/tidebreak-demo/dispatch-api/pull/41) is open and out of draft with you requested, but there has been no human review activity in ~~4 days; Tom's last substantive commits were Sep 25.
+
+Sitting with Maya Ortiz for 1 working day: [**Move crew certification checks into the assignment path**](https://linear.app/tidebreak-demo/issue/DIS-91/move-crew-certification-checks-into-the-assignment-path) (DIS-91) - High priority, In Progress since Sep 23 (~6 days), with no current linked code, PR, or matching branch.
+
+:rocket: **What's done since last digest**  
+:white_check_mark: [DIS-87 Crew availability export for payroll](https://linear.app/tidebreak-demo/issue/DIS-87/crew-availability-export-for-payroll)
 
 ## Developer digests
 
