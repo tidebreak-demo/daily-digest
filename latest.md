@@ -2,7 +2,7 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-09-30  
-Generated at: 2026-09-30 06:02:51 UTC
+Generated at: 2026-09-30 06:02:52 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -11,6 +11,26 @@ Generated at: 2026-09-30 06:02:51 UTC
 No lead digest was delivered.
 
 ## Developer digests
+
+### Priya Raman
+
+Hey Priya - one thing you could help move along:
+
+🚧 **Needs your next move**
+
+[**Index dispatch events by job and kind**](https://linear.app/tidebreak-demo/issue/DIS-77/index-dispatch-events-by-job-and-kind) - [PR #43](https://github.com/tidebreak-demo/dispatch-api/pull/43) has no human review after Dan was requested; could you nudge him or re-request review?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
+
+### Tom Lindqvist
+
+Hey Tom - one review that may be worth unblocking:
+
+🚧 **Needs your next move**
+
+[**Retry failed dispatch webhooks with backoff**](https://linear.app/tidebreak-demo/issue/DIS-89/retry-failed-dispatch-webhooks-with-backoff) - [PR #41](https://github.com/tidebreak-demo/dispatch-api/pull/41) has had no human review activity in about four days; could you nudge Dan or re-request the review?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ### Maya Ortiz
 
