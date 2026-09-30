@@ -1,40 +1,24 @@
 # Daily Digest
 
 Squad: #tidebreak-dispatch  
-Date: 2026-09-29  
-Generated at: 2026-09-29 06:02:46 UTC
+Date: 2026-09-30  
+Generated at: 2026-09-30 06:02:51 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-### Squad lead
-
-Hey Dan - Maya's badge change is still waiting on human review.
-
-🚧 **Worth a look**
-
-Sitting with Maya Ortiz for 4 working days: [**Badge jobs that still have unsent changes**](https://linear.app/tidebreak-demo/issue/DIS-82/badge-jobs-that-still-have-unsent-changes) (DIS-82) - In Review since Sep 22 (~6.5 days); [#16](https://github.com/tidebreak-demo/crew-mobile/pull/16) is open with you requested as reviewer, and there has been no human review activity since Maya's Sep 22 changes.
+No lead digest was delivered.
 
 ## Developer digests
 
-### Tom Lindqvist
-
-Hey Tom - one thing you could help move today:
-
-🚧 **Needs your next move**
-
-[**Retry failed dispatch webhooks with backoff**](https://linear.app/tidebreak-demo/issue/DIS-89/retry-failed-dispatch-webhooks-with-backoff) - [PR #41](https://github.com/tidebreak-demo/dispatch-api/pull/41) has had no human review since Sep 25. Could you nudge Dan or redirect the review?
-
-Heads-up for you first - unresolved items may later show in your squad lead's digest.
-
 ### Maya Ortiz
 
-Hey Maya - one thing you may be able to unblock:
+Hey Maya - one thing you may be able to move forward today:
 
 🚧 **Needs your next move**
 
-[**Badge jobs that still have unsent changes**](https://linear.app/tidebreak-demo/issue/DIS-82/badge-jobs-that-still-have-unsent-changes) - still no human review on [PR #16](https://github.com/tidebreak-demo/crew-mobile/pull/16) since Sep 22. Could you check with Dan or redirect the review?
+[**Move crew certification checks into the assignment path**](https://linear.app/tidebreak-demo/issue/DIS-91/move-crew-certification-checks-into-the-assignment-path) - there is no current code or PR to review for this high-priority safeguard. Could you link the active delivery path, or update the issue with the next step if plans changed?
 
 Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
