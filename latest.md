@@ -2,7 +2,7 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-10-01  
-Generated at: 2026-10-01 06:02:58 UTC
+Generated at: 2026-10-01 06:03:08 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -11,6 +11,20 @@ Generated at: 2026-10-01 06:02:58 UTC
 No lead digest was delivered.
 
 ## Developer digests
+
+### Priya Raman
+
+Hey Priya - a couple of review threads you can help get moving:
+
+🚧 **Needs your next move**
+
+[**Index dispatch events by job and kind**](https://linear.app/tidebreak-demo/issue/DIS-77/index-dispatch-events-by-job-and-kind) - [PR #43](https://github.com/tidebreak-demo/dispatch-api/pull/43) has had no human review since Sep 27; could you nudge Dan to start the review?
+
+[**Reassign a crew's day in one pass**](https://linear.app/tidebreak-demo/issue/DIS-72/reassign-a-crews-day-in-one-pass) - still no reviewer follow-up since Sep 28 on [PR #31](https://github.com/tidebreak-demo/dispatch-web/pull/31); could you sync with Dan on your response and get the requested fix committed for re-review?
+
+I put these first because a nudge could get both reviews moving.
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ### Tom Lindqvist
 
