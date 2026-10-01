@@ -2,13 +2,23 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-10-01  
-Generated at: 2026-10-01 06:03:08 UTC
+Generated at: 2026-10-01 06:03:39 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-No lead digest was delivered.
+### Squad lead
+
+Hey Dan - the unowned urgent signature bug and Priya's stalled reviews need a look today.
+
+🚧 **Worth a look**
+
+[**Signature capture returns a blank image on older handsets**](https://linear.app/tidebreak-demo/issue/DIS-88/signature-capture-returns-a-blank-image-on-older-handsets) (DIS-88) - Urgent bug, Todo since Sep 20 (~10½ days); two disputed jobs, no assignee, and no reviewable code path found. No owner identified to ask.
+
+Sitting with Priya Raman for 1 working day: [**Index dispatch events by job and kind**](https://linear.app/tidebreak-demo/issue/DIS-77/index-dispatch-events-by-job-and-kind) (DIS-77) - In Review since Sep 27 (~3½ days); [#43](https://github.com/tidebreak-demo/dispatch-api/pull/43) has had no human review activity.
+
+Sitting with Priya Raman for 4 working days: [**Reassign a crew's day in one pass**](https://linear.app/tidebreak-demo/issue/DIS-72/reassign-a-crews-day-in-one-pass) (DIS-72) - In Review since Sep 24 (~6½ days); after her Sep 25 response that the validation and failure test were addressed, there has been no substantive commit or reviewer follow-up on [#31](https://github.com/tidebreak-demo/dispatch-web/pull/31).
 
 ## Developer digests
 
