@@ -2,13 +2,21 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-10-02  
-Generated at: 2026-10-02 06:03:06 UTC
+Generated at: 2026-10-02 06:03:16 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-No lead digest was delivered.
+### Squad lead
+
+Hey Dan - today's due report has no confirmed delivery path, and a review is still waiting.
+
+🚧 **Worth a look**
+
+Sitting with Tom Lindqvist for 1 working day: [**Depot handover report for the morning briefing**](https://linear.app/tidebreak-demo/issue/DIS-92/depot-handover-report-for-the-morning-briefing) (DIS-92) - Urgent, due today (Oct 2); In Progress since Sep 25 (~6.5 days), with no confidently identified code path in bounded searches.
+
+[**Badge jobs that still have unsent changes**](https://linear.app/tidebreak-demo/issue/DIS-82/badge-jobs-that-still-have-unsent-changes) (DIS-82) - In Review since Sep 22 (~9.5 days), still no submitted review; latest substantive commits are from Sep 22. [#16](https://github.com/tidebreak-demo/crew-mobile/pull/16) has Dan as requested reviewer.
 
 ## Developer digests
 
