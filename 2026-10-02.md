@@ -2,7 +2,7 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-10-02  
-Generated at: 2026-10-02 06:03:00 UTC
+Generated at: 2026-10-02 06:03:06 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -11,6 +11,18 @@ Generated at: 2026-10-02 06:03:00 UTC
 No lead digest was delivered.
 
 ## Developer digests
+
+### Maya Ortiz
+
+Hey Maya - a couple of things you could help move:
+
+🚧 **Needs your next move**
+
+[**Move crew certification checks into the assignment path**](https://linear.app/tidebreak-demo/issue/DIS-91/move-crew-certification-checks-into-the-assignment-path) - [PR #44](https://github.com/tidebreak-demo/dispatch-api/pull/44) closed unmerged on Oct 1 over the bulk-import conflict. Could you choose a path that works with imports?
+
+[**Badge jobs that still have unsent changes**](https://linear.app/tidebreak-demo/issue/DIS-82/badge-jobs-that-still-have-unsent-changes) - [PR #16](https://github.com/tidebreak-demo/crew-mobile/pull/16) still has no review; Dan said he would read it on Sep 23. Could you nudge him or reroute the review?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ### Tom Lindqvist
 
