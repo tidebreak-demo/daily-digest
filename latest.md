@@ -1,44 +1,26 @@
 # Daily Digest
 
 Squad: #tidebreak-dispatch  
-Date: 2026-10-02  
-Generated at: 2026-10-02 06:03:16 UTC
+Date: 2026-10-03  
+Generated at: 2026-10-03 06:03:20 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-### Squad lead
-
-Hey Dan - today's due report has no confirmed delivery path, and a review is still waiting.
-
-🚧 **Worth a look**
-
-Sitting with Tom Lindqvist for 1 working day: [**Depot handover report for the morning briefing**](https://linear.app/tidebreak-demo/issue/DIS-92/depot-handover-report-for-the-morning-briefing) (DIS-92) - Urgent, due today (Oct 2); In Progress since Sep 25 (~6.5 days), with no confidently identified code path in bounded searches.
-
-[**Badge jobs that still have unsent changes**](https://linear.app/tidebreak-demo/issue/DIS-82/badge-jobs-that-still-have-unsent-changes) (DIS-82) - In Review since Sep 22 (~9.5 days), still no submitted review; latest substantive commits are from Sep 22. [#16](https://github.com/tidebreak-demo/crew-mobile/pull/16) has Dan as requested reviewer.
+No lead digest was delivered.
 
 ## Developer digests
 
-### Maya Ortiz
-
-Hey Maya - a couple of things you could help move:
-
-🚧 **Needs your next move**
-
-[**Move crew certification checks into the assignment path**](https://linear.app/tidebreak-demo/issue/DIS-91/move-crew-certification-checks-into-the-assignment-path) - [PR #44](https://github.com/tidebreak-demo/dispatch-api/pull/44) closed unmerged on Oct 1 over the bulk-import conflict. Could you choose a path that works with imports?
-
-[**Badge jobs that still have unsent changes**](https://linear.app/tidebreak-demo/issue/DIS-82/badge-jobs-that-still-have-unsent-changes) - [PR #16](https://github.com/tidebreak-demo/crew-mobile/pull/16) still has no review; Dan said he would read it on Sep 23. Could you nudge him or reroute the review?
-
-Heads-up for you first - unresolved items may later show in your squad lead's digest.
-
 ### Tom Lindqvist
 
-Hey Tom - one thing you can probably unblock today:
+Hey Tom - a couple of things you can probably unblock:
 
 🚧 **Needs your next move**
 
-[**Depot handover report for the morning briefing**](https://linear.app/tidebreak-demo/issue/DIS-92/depot-handover-report-for-the-morning-briefing) - it's due today, but I couldn't find a clear reviewable code path. Could you share the delivery path or update the story if plans changed?
+[**Depot handover report for the morning briefing**](https://linear.app/tidebreak-demo/issue/DIS-92/depot-handover-report-for-the-morning-briefing) - the Oct 2 due date has passed without a reviewable code path; if this is still active, open a PR, or update the story if plans changed.
+
+[**Retry failed dispatch webhooks with backoff**](https://linear.app/tidebreak-demo/issue/DIS-89/retry-failed-dispatch-webhooks-with-backoff) - still no code movement since Sep 25; could you settle the five-minute idempotency question on [**PR #41**](https://github.com/tidebreak-demo/dispatch-api/pull/41) and ask Dan for review when ready?
 
 Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
