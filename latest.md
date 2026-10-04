@@ -1,39 +1,26 @@
 # Daily Digest
 
 Squad: #tidebreak-dispatch  
-Date: 2026-10-03  
-Generated at: 2026-10-03 06:03:23 UTC
+Date: 2026-10-04  
+Generated at: 2026-10-04 06:03:06 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-### Squad lead
-
-Hey Dan - the webhook change is still stalled, and a closed PR has left its issue in the wrong review state.
-
-🚧 **Worth a look**
-
-Sitting with Tom Lindqvist for 4 working days: [**Retry failed dispatch webhooks with backoff**](https://linear.app/tidebreak-demo/issue/DIS-89/retry-failed-dispatch-webhooks-with-backoff) (DIS-89) - High priority, In Progress since Sep 27 (~5.5 days), with no substantive code movement since Tom's Sep 25 commits; [#41](https://github.com/tidebreak-demo/dispatch-api/pull/41) has no human review, and the five-minute idempotency question remains unanswered.
-
-🍏 **Cleanup**
-
-This one is Maya Ortiz's: [**Move crew certification checks into the assignment path**](https://linear.app/tidebreak-demo/issue/DIS-91/move-crew-certification-checks-into-the-assignment-path) (DIS-91) - In Review since Sep 30 (~2.5 days), though [#44](https://github.com/tidebreak-demo/dispatch-api/pull/44) was closed unmerged on Oct 1; Maya's comment says assignment-time enforcement breaks bulk import before certifications sync.
-
-:rocket: **What's done since last digest**  
-:white_check_mark: [DIS-82 Badge jobs that still have unsent changes](https://linear.app/tidebreak-demo/issue/DIS-82/badge-jobs-that-still-have-unsent-changes)
+No lead digest was delivered.
 
 ## Developer digests
 
-### Tom Lindqvist
+### Priya Raman
 
-Hey Tom - a couple of things you can probably unblock:
+Hey Priya - two things you may be able to move forward today:
 
 🚧 **Needs your next move**
 
-[**Depot handover report for the morning briefing**](https://linear.app/tidebreak-demo/issue/DIS-92/depot-handover-report-for-the-morning-briefing) - the Oct 2 due date has passed without a reviewable code path; if this is still active, open a PR, or update the story if plans changed.
+[**Index dispatch events by job and kind**](https://linear.app/tidebreak-demo/issue/DIS-77/index-dispatch-events-by-job-and-kind) - still no review on [PR #43](https://github.com/tidebreak-demo/dispatch-api/pull/43) since Oct 1; could you nudge Dan or find another reviewer?
 
-[**Retry failed dispatch webhooks with backoff**](https://linear.app/tidebreak-demo/issue/DIS-89/retry-failed-dispatch-webhooks-with-backoff) - still no code movement since Sep 25; could you settle the five-minute idempotency question on [**PR #41**](https://github.com/tidebreak-demo/dispatch-api/pull/41) and ask Dan for review when ready?
+[**Reassign a crew's day in one pass**](https://linear.app/tidebreak-demo/issue/DIS-72/reassign-a-crews-day-in-one-pass) - still no code follow-up on [PR #31](https://github.com/tidebreak-demo/dispatch-web/pull/31) since Oct 1; could you push the changes reviewers asked for so they can take another look?
 
 Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
