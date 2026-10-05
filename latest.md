@@ -1,37 +1,26 @@
 # Daily Digest
 
 Squad: #tidebreak-dispatch  
-Date: 2026-10-04  
-Generated at: 2026-10-04 06:03:07 UTC
+Date: 2026-10-05  
+Generated at: 2026-10-05 06:05:53 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-### Squad lead
-
-Hey Dan - the stalled reporting review and missing code follow-up are still awaiting movement.
-
-🚧 **Worth a look**
-
-[**Index dispatch events by job and kind**](https://linear.app/tidebreak-demo/issue/DIS-77/index-dispatch-events-by-job-and-kind) (DIS-77) - In Review since Sep 27 (~~6d 13h); [#43](https://github.com/tidebreak-demo/dispatch-api/pull/43) has had no human review activity in ~~6.5d, and the last substantive code commits were Sep 27.
-
-[**Reassign a crew's day in one pass**](https://linear.app/tidebreak-demo/issue/DIS-72/reassign-a-crews-day-in-one-pass) (DIS-72) - In Review since Sep 24 (~9d 13h); after the Sep 24 changes-requested feedback, there have been no substantive commits or re-review.
-
-:rocket: **What's done since last digest**  
-:white_check_mark: [DIS-88 Signature capture returns a blank image on older handsets](https://linear.app/tidebreak-demo/issue/DIS-88/signature-capture-returns-a-blank-image-on-older-handsets)
+No lead digest was delivered.
 
 ## Developer digests
 
-### Priya Raman
+### Maya Ortiz
 
-Hey Priya - two things you may be able to move forward today:
+Hey Maya - a couple of things you can probably unblock:
 
 🚧 **Needs your next move**
 
-[**Index dispatch events by job and kind**](https://linear.app/tidebreak-demo/issue/DIS-77/index-dispatch-events-by-job-and-kind) - still no review on [PR #43](https://github.com/tidebreak-demo/dispatch-api/pull/43) since Oct 1; could you nudge Dan or find another reviewer?
+[**Move crew certification checks into the assignment path**](https://linear.app/tidebreak-demo/issue/DIS-91/move-crew-certification-checks-into-the-assignment-path) - still no replacement review path since Oct 2; [PR #44](https://github.com/tidebreak-demo/dispatch-api/pull/44) closed unmerged Oct 1. Could you propose the next implementation approach?
 
-[**Reassign a crew's day in one pass**](https://linear.app/tidebreak-demo/issue/DIS-72/reassign-a-crews-day-in-one-pass) - still no code follow-up on [PR #31](https://github.com/tidebreak-demo/dispatch-web/pull/31) since Oct 1; could you push the changes reviewers asked for so they can take another look?
+[**Flush the offline queue after reconnect**](https://linear.app/tidebreak-demo/issue/DIS-68/flush-the-offline-queue-after-reconnect) - [PR #26](https://github.com/tidebreak-demo/crew-mobile/pull/26) still needs capped retries and a surfaced failure state. Could you address those requests or suggest a smaller approach?
 
 Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
