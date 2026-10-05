@@ -2,13 +2,24 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-10-05  
-Generated at: 2026-10-05 06:05:53 UTC
+Generated at: 2026-10-05 06:05:58 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-No lead digest was delivered.
+### Squad lead
+
+Hey Dan - an unassigned customer bug and an overdue delivery path need a decision today.
+
+🚧 **Worth a look**
+
+[**Crews see yesterday's job list after crossing a timezone**](https://linear.app/tidebreak-demo/issue/DIS-93/crews-see-yesterdays-job-list-after-crossing-a-timezone) (DIS-93) - Urgent, Todo since Oct 1 (~3.5 days); three customer sites are affected this week, with no assignee or confirmed code path. [#47](https://github.com/tidebreak-demo/dispatch-api/pull/47) does not contain a timezone/job-list fix; no individual is assigned to take this.
+
+Sitting with Tom Lindqvist for 4 working days: [**Depot handover report for the morning briefing**](https://linear.app/tidebreak-demo/issue/DIS-92/depot-handover-report-for-the-morning-briefing) (DIS-92) - In Progress since Sep 30 (~4.5 days), Urgent and 3 days past its Oct 2 due date; no confidently identified code path, and supervisors still rebuild the overnight report manually.
+
+:rocket: **What's done since last digest**  
+:white_check_mark: [DIS-72 Reassign a crew's day in one pass](https://linear.app/tidebreak-demo/issue/DIS-72/reassign-a-crews-day-in-one-pass)
 
 ## Developer digests
 
