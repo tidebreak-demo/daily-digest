@@ -1,8 +1,8 @@
 # Daily Digest
 
 Squad: #tidebreak-dispatch  
-Date: 2026-10-06  
-Generated at: 2026-10-06 06:06:12 UTC
+Date: 2026-10-07  
+Generated at: 2026-10-07 10:03:45 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -10,15 +10,14 @@ Generated at: 2026-10-06 06:06:12 UTC
 
 ### Squad lead
 
-Hey Dan - an unresolved implementation question and an unanswered review need a look today.
+Hey Dan - the dispatch-event review is still waiting on your attention.
 
 🚧 **Worth a look**
 
-[**Retry failed dispatch webhooks with backoff**](https://linear.app/tidebreak-demo/issue/DIS-89/retry-failed-dispatch-webhooks-with-backoff) (DIS-89) - In Progress since Sep 27 (~9 days); [#41](https://github.com/tidebreak-demo/dispatch-api/pull/41) has no human reviews and no substantive code movement since Sep 25. The job-and-attempt-window idempotency key question remains unresolved, including whether it could block legitimate split-shift dispatches.
+[**Index dispatch events by job and kind**](https://linear.app/tidebreak-demo/issue/DIS-77/index-dispatch-events-by-job-and-kind) (DIS-77) - In Review since Sep 27 (~9 days 17 hours); [#43](https://github.com/tidebreak-demo/dispatch-api/pull/43) has no human review activity, with no substantive code movement since Sep 27.
 
-[**Move crew certification checks into the assignment path**](https://linear.app/tidebreak-demo/issue/DIS-91/move-crew-certification-checks-into-the-assignment-path) (DIS-91) - In Review since Sep 30 (~6 days); [#44](https://github.com/tidebreak-demo/dispatch-api/pull/44) closed unmerged Oct 1 without the core certification check, and no later code activity is shown.
-
-[**Flush the offline queue after reconnect**](https://linear.app/tidebreak-demo/issue/DIS-68/flush-the-offline-queue-after-reconnect) (DIS-68) - In Review since Oct 1 (~5 days); [#26](https://github.com/tidebreak-demo/crew-mobile/pull/26) has no substantive commits after Oct 1, and the Oct 2 request for capped attempts and a failure state remains unanswered.
+:rocket: **What's done since last digest**  
+:white_check_mark: [DIS-89 Retry failed dispatch webhooks with backoff](https://linear.app/tidebreak-demo/issue/DIS-89/retry-failed-dispatch-webhooks-with-backoff)
 
 ## Developer digests
 
