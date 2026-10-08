@@ -1,8 +1,8 @@
 # Daily Digest
 
 Squad: #tidebreak-dispatch  
-Date: 2026-10-07  
-Generated at: 2026-10-07 10:03:45 UTC
+Date: 2026-10-08  
+Generated at: 2026-10-08 06:03:29 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -10,14 +10,13 @@ Generated at: 2026-10-07 10:03:45 UTC
 
 ### Squad lead
 
-Hey Dan - the dispatch-event review is still waiting on your attention.
+Hey Dan - an urgent customer schedule break and an overdue report without a confirmed code path still need a decision.
 
 🚧 **Worth a look**
 
-[**Index dispatch events by job and kind**](https://linear.app/tidebreak-demo/issue/DIS-77/index-dispatch-events-by-job-and-kind) (DIS-77) - In Review since Sep 27 (~9 days 17 hours); [#43](https://github.com/tidebreak-demo/dispatch-api/pull/43) has no human review activity, with no substantive code movement since Sep 27.
+[**Crews see yesterday's job list after crossing a timezone**](https://linear.app/tidebreak-demo/issue/DIS-93/crews-see-yesterdays-job-list-after-crossing-a-timezone) (DIS-93) - Urgent, Todo since Oct 1 (~6 days 11 hours), unassigned with no linked or confidently matched fix; crews at three Harbour Facilities sites see the previous day's schedule until reinstalling. [#49](https://github.com/tidebreak-demo/dispatch-api/pull/49) is unrelated and does not show a fix.
 
-:rocket: **What's done since last digest**  
-:white_check_mark: [DIS-89 Retry failed dispatch webhooks with backoff](https://linear.app/tidebreak-demo/issue/DIS-89/retry-failed-dispatch-webhooks-with-backoff)
+[**Depot handover report for the morning briefing**](https://linear.app/tidebreak-demo/issue/DIS-92/depot-handover-report-for-the-morning-briefing) (DIS-92) - In Progress since Sep 30 (~7 days 10 hours); Urgent and about 6 days past its Oct 2 due date, with no linked or confidently correlated code found.
 
 ## Developer digests
 
