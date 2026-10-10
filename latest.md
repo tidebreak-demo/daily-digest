@@ -1,28 +1,26 @@
 # Daily Digest
 
 Squad: #tidebreak-dispatch  
-Date: 2026-10-09  
-Generated at: 2026-10-09 06:05:27 UTC
+Date: 2026-10-10  
+Generated at: 2026-10-10 06:04:33 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-### Squad lead
-
-Hey Dan - a closed implementation path, unanswered requested changes, and your pending review still need a look.
-
-🚧 **Worth a look**
-
-[**Show upload progress for queued job photos**](https://linear.app/tidebreak-demo/issue/DIS-80/show-upload-progress-for-queued-job-photos) (DIS-80) - In Review since Oct 3 (~6 days); [#27](https://github.com/tidebreak-demo/crew-mobile/pull/27) has no review or new commits since Oct 3. Your Oct 4 comment said you'd look this week; no review by Friday Oct 9.
-
-[**Move crew certification checks into the assignment path**](https://linear.app/tidebreak-demo/issue/DIS-91/move-crew-certification-checks-into-the-assignment-path) (DIS-91) - In Review since Sep 30 (~9 days), still without an implementation path; [#44](https://github.com/tidebreak-demo/dispatch-api/pull/44) closed unmerged Oct 1 after a bulk-import conflict, with no later code activity.
-
-[**Flush the offline queue after reconnect**](https://linear.app/tidebreak-demo/issue/DIS-68/flush-the-offline-queue-after-reconnect) (DIS-68) - In Review since Oct 1 (~8 days), still no response or follow-up code; [#26](https://github.com/tidebreak-demo/crew-mobile/pull/26) has no substantive commits since Oct 1 after the Oct 2 request for capped retries and a failure state.
+No lead digest was delivered.
 
 ## Developer digests
 
-No developer digests were delivered.
+### Maya Ortiz
+
+Hey Maya - one thing you can probably unblock:
+
+🚧 **Needs your next move**
+
+[**Flush the offline queue after reconnect**](https://linear.app/tidebreak-demo/issue/DIS-68/flush-the-offline-queue-after-reconnect) - the PR still has requested changes from October 2 for capped retries and a failure state. Could you make those updates or reply on the PR with another approach?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ## How ShakaFlow decides
 
