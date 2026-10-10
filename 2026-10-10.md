@@ -2,7 +2,7 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-10-10  
-Generated at: 2026-10-10 06:04:35 UTC
+Generated at: 2026-10-10 06:04:38 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -11,6 +11,18 @@ Generated at: 2026-10-10 06:04:35 UTC
 No lead digest was delivered.
 
 ## Developer digests
+
+### Priya Raman
+
+Hey Priya - a couple of things you can probably unblock:
+
+🚧 **Needs your next move**
+
+[**Persist board filters per user**](https://linear.app/tidebreak-demo/issue/DIS-94/persist-board-filters-per-user) - [PR #39](https://github.com/tidebreak-demo/dispatch-web/pull/39) still needs a response to the workspace-key collision feedback. Could you address it or reply with your plan?
+
+[**Index dispatch events by job and kind**](https://linear.app/tidebreak-demo/issue/DIS-77/index-dispatch-events-by-job-and-kind) - still no human review on [PR #43](https://github.com/tidebreak-demo/dispatch-api/pull/43) since September 27. Could you nudge Dan or ask another reviewer?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ### Tom Lindqvist
 
