@@ -2,13 +2,19 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-10-10  
-Generated at: 2026-10-10 06:04:38 UTC
+Generated at: 2026-10-10 06:04:44 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-No lead digest was delivered.
+### Squad lead
+
+Hey Dan - the dispatch-event review is still waiting for a human review.
+
+🚧 **Worth a look**
+
+[**Index dispatch events by job and kind**](https://linear.app/tidebreak-demo/issue/DIS-77/index-dispatch-events-by-job-and-kind) (DIS-77) - In Review since Sep 27 (~13 days), still no review movement; [#43](https://github.com/tidebreak-demo/dispatch-api/pull/43) has no human review and no substantive code activity since Sep 27.
 
 ## Developer digests
 
