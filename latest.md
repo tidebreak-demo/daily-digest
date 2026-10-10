@@ -2,7 +2,7 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-10-10  
-Generated at: 2026-10-10 06:04:33 UTC
+Generated at: 2026-10-10 06:04:35 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -11,6 +11,18 @@ Generated at: 2026-10-10 06:04:33 UTC
 No lead digest was delivered.
 
 ## Developer digests
+
+### Tom Lindqvist
+
+Hey Tom - one thing you may be able to unblock:
+
+🚧 **Needs your next move**
+
+[**Show upload progress for queued job photos**](https://linear.app/tidebreak-demo/issue/DIS-80/show-upload-progress-for-queued-job-photos) - the open [PR](https://github.com/tidebreak-demo/crew-mobile/pull/27) still has no human review. Could you follow up with Dan or request another reviewer?
+
+Flagging this first because the PR is waiting on another person's review.
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ### Maya Ortiz
 
