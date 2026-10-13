@@ -2,7 +2,7 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-10-13  
-Generated at: 2026-10-13 06:04:44 UTC
+Generated at: 2026-10-13 06:04:46 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -11,6 +11,16 @@ Generated at: 2026-10-13 06:04:44 UTC
 No lead digest was delivered.
 
 ## Developer digests
+
+### Tom Lindqvist
+
+Hey Tom - one thing you could help move along:
+
+🚧 **Needs your next move**
+
+Still no review since Oct 4 on [**Show upload progress for queued job photos**](https://linear.app/tidebreak-demo/issue/DIS-80/show-upload-progress-for-queued-job-photos) - could you nudge Dan or re-request it?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ### Maya Ortiz
 
