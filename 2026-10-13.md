@@ -2,7 +2,7 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-10-13  
-Generated at: 2026-10-13 06:04:42 UTC
+Generated at: 2026-10-13 06:04:44 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -11,6 +11,16 @@ Generated at: 2026-10-13 06:04:42 UTC
 No lead digest was delivered.
 
 ## Developer digests
+
+### Maya Ortiz
+
+Hey Maya - one thing you could help move along:
+
+🚧 **Needs your next move**
+
+[**Flush the offline queue after reconnect**](https://linear.app/tidebreak-demo/issue/DIS-68/flush-the-offline-queue-after-reconnect) - still no response to [PR #26](https://github.com/tidebreak-demo/crew-mobile/pull/26)'s Oct 2 request to cap retries and show a failure state; could you reply to the feedback or update the PR?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ### Priya Raman
 
