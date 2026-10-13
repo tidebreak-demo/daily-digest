@@ -2,13 +2,21 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-10-13  
-Generated at: 2026-10-13 06:04:46 UTC
+Generated at: 2026-10-13 06:04:58 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-No lead digest was delivered.
+### Squad lead
+
+Hey Dan - a live implementation choice and a long-waiting review need a look.
+
+🚧 **Worth a look**
+
+[**Cache crew availability on the board**](https://linear.app/tidebreak-demo/issue/DIS-95/cache-crew-availability-on-the-board) (DIS-95) - In Review since Oct 8 (~5 days); [#42](https://github.com/tidebreak-demo/dispatch-web/pull/42) has no substantive commits after Oct 8. After Dan raised the risk of showing an assigned crew as free on Oct 9, Tom defended rapid invalidation on Oct 10 and Maya proposed socket updates on Oct 12; the implementation choice remains unresolved.
+
+Sitting with Tom for 5 working days: [**Show upload progress for queued job photos**](https://linear.app/tidebreak-demo/issue/DIS-80/show-upload-progress-for-queued-job-photos) (DIS-80) - In Review since Oct 3 (~~10 days); [#27](https://github.com/tidebreak-demo/crew-mobile/pull/27) requested Dan's review on Oct 3, with no human review activity for ~~9 days despite his Oct 4 note that he'd look this week.
 
 ## Developer digests
 
