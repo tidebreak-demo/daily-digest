@@ -1,52 +1,24 @@
 # Daily Digest
 
 Squad: #tidebreak-dispatch  
-Date: 2026-10-13  
-Generated at: 2026-10-13 06:04:58 UTC
+Date: 2026-10-15  
+Generated at: 2026-10-15 06:03:04 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-### Squad lead
-
-Hey Dan - a live implementation choice and a long-waiting review need a look.
-
-🚧 **Worth a look**
-
-[**Cache crew availability on the board**](https://linear.app/tidebreak-demo/issue/DIS-95/cache-crew-availability-on-the-board) (DIS-95) - In Review since Oct 8 (~5 days); [#42](https://github.com/tidebreak-demo/dispatch-web/pull/42) has no substantive commits after Oct 8. After Dan raised the risk of showing an assigned crew as free on Oct 9, Tom defended rapid invalidation on Oct 10 and Maya proposed socket updates on Oct 12; the implementation choice remains unresolved.
-
-Sitting with Tom for 5 working days: [**Show upload progress for queued job photos**](https://linear.app/tidebreak-demo/issue/DIS-80/show-upload-progress-for-queued-job-photos) (DIS-80) - In Review since Oct 3 (~~10 days); [#27](https://github.com/tidebreak-demo/crew-mobile/pull/27) requested Dan's review on Oct 3, with no human review activity for ~~9 days despite his Oct 4 note that he'd look this week.
+No lead digest was delivered.
 
 ## Developer digests
 
-### Tom Lindqvist
-
-Hey Tom - one thing you could help move along:
-
-🚧 **Needs your next move**
-
-Still no review since Oct 4 on [**Show upload progress for queued job photos**](https://linear.app/tidebreak-demo/issue/DIS-80/show-upload-progress-for-queued-job-photos) - could you nudge Dan or re-request it?
-
-Heads-up for you first - unresolved items may later show in your squad lead's digest.
-
-### Maya Ortiz
-
-Hey Maya - one thing you could help move along:
-
-🚧 **Needs your next move**
-
-[**Flush the offline queue after reconnect**](https://linear.app/tidebreak-demo/issue/DIS-68/flush-the-offline-queue-after-reconnect) - still no response to [PR #26](https://github.com/tidebreak-demo/crew-mobile/pull/26)'s Oct 2 request to cap retries and show a failure state; could you reply to the feedback or update the PR?
-
-Heads-up for you first - unresolved items may later show in your squad lead's digest.
-
 ### Priya Raman
 
-Hey Priya - one thing you could help move:
+Hey Priya - one review you can probably unblock:
 
 🚧 **Needs your next move**
 
-[**Persist board filters per user**](https://linear.app/tidebreak-demo/issue/DIS-94/persist-board-filters-per-user) - still waiting on re-review after your Oct 6 answer; could you chase Dan or ask another reviewer?
+[**Record every partner webhook attempt**](https://linear.app/tidebreak-demo/issue/DIS-78/record-every-partner-webhook-attempt) - [PR #51](https://github.com/tidebreak-demo/dispatch-api/pull/51) still has no human review. Could you chase Dan or reroute the review?
 
 Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
