@@ -2,13 +2,24 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-10-18  
-Generated at: 2026-10-18 06:03:15 UTC
+Generated at: 2026-10-18 06:03:22 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-No lead digest was delivered.
+### Squad lead
+
+Hey Dan - the unowned urgent scheduling bug and a review still waiting on human eyes remain the decisions today.
+
+🚧 **Worth a look**
+
+[**Crews see yesterday's job list after crossing a timezone**](https://linear.app/tidebreak-demo/issue/DIS-93/crews-see-yesterdays-job-list-after-crossing-a-timezone) (DIS-93) - Urgent customer bug, Todo since October 1 (~16 days); crews at three sites can see the previous day's schedule after an offset change, with no assignee or code activity.
+
+Sitting with Priya for 4 working days: [**Record every partner webhook attempt**](https://linear.app/tidebreak-demo/issue/DIS-78/record-every-partner-webhook-attempt) (DIS-78) - In Review since October 11 (~7 days); [#51](https://github.com/tidebreak-demo/dispatch-api/pull/51) has no human review activity, despite Priya's October 13 nudge.
+
+:rocket: **What's done since last digest**  
+:white_check_mark: [DIS-68 Flush the offline queue after reconnect](https://linear.app/tidebreak-demo/issue/DIS-68/flush-the-offline-queue-after-reconnect)
 
 ## Developer digests
 
