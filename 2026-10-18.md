@@ -2,7 +2,7 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-10-18  
-Generated at: 2026-10-18 06:03:08 UTC
+Generated at: 2026-10-18 06:03:15 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -11,6 +11,22 @@ Generated at: 2026-10-18 06:03:08 UTC
 No lead digest was delivered.
 
 ## Developer digests
+
+### Priya Raman
+
+Hey Priya - a couple of things you can probably unblock:
+
+🚧 **Needs your next move**
+
+[**Record every partner webhook attempt**](https://linear.app/tidebreak-demo/issue/DIS-78/record-every-partner-webhook-attempt) - there has still been no human review since October 11.
+
+[**Persist board filters per user**](https://linear.app/tidebreak-demo/issue/DIS-94/persist-board-filters-per-user) - there has been no follow-up after your October 6 answer; could you ask Dan to review both open PRs?
+
+🍏 **Cleanup**
+
+[**Move crew certification checks into the assignment path**](https://linear.app/tidebreak-demo/issue/DIS-97/move-crew-certification-checks-into-the-assignment-path) - its PR closed unmerged on October 17, so could you move the issue back to In Progress?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ### Tom Lindqvist
 
