@@ -1,31 +1,26 @@
 # Daily Digest
 
 Squad: #tidebreak-dispatch  
-Date: 2026-10-16  
-Generated at: 2026-10-16 06:04:01 UTC
+Date: 2026-10-18  
+Generated at: 2026-10-18 06:03:08 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead digest
 
-### Squad lead
-
-Hey Dan - the unresolved availability choice and stalled reviews still need a look.
-
-🚧 **Worth a look**
-
-[**Cache crew availability on the board**](https://linear.app/tidebreak-demo/issue/DIS-95/cache-crew-availability-on-the-board) (DIS-95) - In Review since Oct 8 (~7.5 days), with no substantive commits since Oct 8; the proposed socket-update approach on Oct 12 has not resolved the choice between implementations. No decision owner is identified.
-
-[**Persist board filters per user**](https://linear.app/tidebreak-demo/issue/DIS-94/persist-board-filters-per-user) (DIS-94) - In Review since Oct 5 (~~10.5 days); [#39](https://github.com/tidebreak-demo/dispatch-web/pull/39) has had no substantive commits after the review, and there has been no follow-up since Priya's Oct 6 answer (~~9 days).
-
-[**Show upload progress for queued job photos**](https://linear.app/tidebreak-demo/issue/DIS-80/show-upload-progress-for-queued-job-photos) (DIS-80) - In Review since Oct 3 (~~12.5 days); [#27](https://github.com/tidebreak-demo/crew-mobile/pull/27) has had no human review activity for ~~12 days, with no substantive commits since Oct 3.
-
-:rocket: **What's done since last digest**  
-:white_check_mark: [DIS-92 Depot handover report for the morning briefing](https://linear.app/tidebreak-demo/issue/DIS-92/depot-handover-report-for-the-morning-briefing)
+No lead digest was delivered.
 
 ## Developer digests
 
-No developer digests were delivered.
+### Tom Lindqvist
+
+Hey Tom - one thing you may be able to unblock:
+
+🚧 **Needs your next move**
+
+[**Show upload progress for queued job photos**](https://linear.app/tidebreak-demo/issue/DIS-80/show-upload-progress-for-queued-job-photos) - Dan's review still hasn't landed after his Oct 4 note; could you nudge him or re-request it on [PR #27](https://github.com/tidebreak-demo/crew-mobile/pull/27)?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ## How ShakaFlow decides
 
