@@ -1,8 +1,8 @@
 # Daily Digest
 
 Squad: #tidebreak-dispatch  
-Date: 2026-10-19  
-Generated at: 2026-10-19 06:05:13 UTC
+Date: 2026-10-21  
+Generated at: 2026-10-21 06:04:17 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -10,22 +10,16 @@ Generated at: 2026-10-19 06:05:13 UTC
 
 ### Squad lead
 
-Hey Dan - the open implementation choice, stalled reviews, and one tracker mismatch need a look today.
+Hey Dan - the urgent unassigned schedule bug and the waiting webhook review need a look today.
 
 🚧 **Worth a look**
 
-[**Cache crew availability on the board**](https://linear.app/tidebreak-demo/issue/DIS-95/cache-crew-availability-on-the-board) (DIS-95) - In Review since Oct 8 (~10 days), no substantive code activity since Oct 8; Tom's invalidation approach and Maya's socket-push alternative remain unresolved on [#42](https://github.com/tidebreak-demo/dispatch-web/pull/42).
+[**Crews see yesterday's job list after crossing a timezone**](https://linear.app/tidebreak-demo/issue/DIS-93/crews-see-yesterdays-job-list-after-crossing-a-timezone) (DIS-93) - Urgent customer-facing bug, Todo since October 1 (~20 days); crews at three Harbour Facilities sites received the prior day's schedule after an offset change, and the issue has no assignee.
 
-[**Persist board filters per user**](https://linear.app/tidebreak-demo/issue/DIS-94/persist-board-filters-per-user) (DIS-94) - In Review since Oct 5 (~13 days); [#39](https://github.com/tidebreak-demo/dispatch-web/pull/39) still has unanswered changes-requested feedback and no substantive commits or author reply since Oct 5.
-
-[**Show upload progress for queued job photos**](https://linear.app/tidebreak-demo/issue/DIS-80/show-upload-progress-for-queued-job-photos) (DIS-80) - In Review since Oct 3 (~15 days), no human review or substantive code activity since Oct 3 on [#27](https://github.com/tidebreak-demo/crew-mobile/pull/27).
-
-🍏 **Cleanup**
-
-[**Move crew certification checks into the assignment path**](https://linear.app/tidebreak-demo/issue/DIS-97/move-crew-certification-checks-into-the-assignment-path) (DIS-97) - Still In Review although [#53](https://github.com/tidebreak-demo/dispatch-api/pull/53) merged Oct 17.
+[**Record every partner webhook attempt**](https://linear.app/tidebreak-demo/issue/DIS-78/record-every-partner-webhook-attempt) (DIS-78) - In Review since October 11 (~10 days); [#51](https://github.com/tidebreak-demo/dispatch-api/pull/51) has had no human review since it opened October 11, and the latest substantive commits are from October 11.
 
 :rocket: **What's done since last digest**  
-:white_check_mark: [DIS-98 Let dispatchers filter the board by certification](https://linear.app/tidebreak-demo/issue/DIS-98/let-dispatchers-filter-the-board-by-certification)
+:white_check_mark: [DIS-80 Show upload progress for queued job photos](https://linear.app/tidebreak-demo/issue/DIS-80/show-upload-progress-for-queued-job-photos)
 
 ## Developer digests
 
