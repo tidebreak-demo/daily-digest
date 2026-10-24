@@ -1,8 +1,8 @@
 # Daily Digest
 
 Squad: #tidebreak-dispatch  
-Date: 2026-10-22  
-Generated at: 2026-10-22 06:05:27 UTC
+Date: 2026-10-24  
+Generated at: 2026-10-24 06:03:58 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -10,24 +10,16 @@ Generated at: 2026-10-22 06:05:27 UTC
 
 ### Squad lead
 
-Hey Dan - today's decisions center on a due-today customer commitment, an unresolved approach choice, and review work that still needs a clear path.
+Hey Dan - an urgent customer bug is unowned, and the webhook review still has no human review.
 
 🚧 **Worth a look**
 
-[**Offline photo upload for completed jobs**](https://linear.app/tidebreak-demo/issue/DIS-100/offline-photo-upload-for-completed-jobs) (DIS-100) - Urgent, due October 22 on a Harbour Facilities commitment; In Progress since October 15 (~7 days), with no linked or confidently matched PR and no reviewable delivery path.
+[**Reassigned jobs keep notifying the original crew**](https://linear.app/tidebreak-demo/issue/DIS-102/reassigned-jobs-keep-notifying-the-original-crew) (DIS-102) - Urgent customer-reported bug, Todo since Oct 20 (~4 days); crews removed from jobs still received reminders and arrived alongside replacements, twice at one site this week. No assignee is identified.
 
-[**Cache crew availability on the board**](https://linear.app/tidebreak-demo/issue/DIS-95/cache-crew-availability-on-the-board) (DIS-95) - In Review since October 8 (~13.5 days), with no substantive commits since October 8; the stale-availability risk and Maya's socket-update alternative still leave the approach undecided on [#42](https://github.com/tidebreak-demo/dispatch-web/pull/42). No follow-up recipient was identified for the approach choice.
-
-[**Persist board filters per user**](https://linear.app/tidebreak-demo/issue/DIS-94/persist-board-filters-per-user) (DIS-94) - In Review since October 5 (~16.5 days); Priya answered the workspace-key question October 6, but [#39](https://github.com/tidebreak-demo/dispatch-web/pull/39) has had no re-review or substantive commit since.
-
-[**Agree how long job photos are kept**](https://linear.app/tidebreak-demo/issue/DIS-99/agree-how-long-job-photos-are-kept) (DIS-99) - In Progress since October 20 (~~2 days); [#55](https://github.com/tidebreak-demo/dispatch-api/pull/55) has been open since October 18 (~~4 days) with no human review and no newer listed commits.
-
-🍏 **Cleanup**
-
-[**Move crew certification checks into the assignment path**](https://linear.app/tidebreak-demo/issue/DIS-97/move-crew-certification-checks-into-the-assignment-path) (DIS-97) - In Review since October 16 (~5.5 days), although [#53](https://github.com/tidebreak-demo/dispatch-api/pull/53) closed unmerged October 17; the PR notes assignment-time checks break bulk import.
+[**Record every partner webhook attempt**](https://linear.app/tidebreak-demo/issue/DIS-78/record-every-partner-webhook-attempt) (DIS-78) - In Review since Oct 11 (~13 days); [#51](https://github.com/tidebreak-demo/dispatch-api/pull/51) has no human review, though Dan is requested as reviewer, and no code movement since Oct 11.
 
 :rocket: **What's done since last digest**  
-:white_check_mark: [DIS-93 Crews see yesterday's job list after crossing a timezone](https://linear.app/tidebreak-demo/issue/DIS-93/crews-see-yesterdays-job-list-after-crossing-a-timezone)
+:white_check_mark: [DIS-95 Cache crew availability on the board](https://linear.app/tidebreak-demo/issue/DIS-95/cache-crew-availability-on-the-board)
 
 ## Developer digests
 
