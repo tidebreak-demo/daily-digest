@@ -1,28 +1,26 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-10-26  
-Generated at: 2026-10-26 06:04:23 UTC
+Date: 2026-10-27  
+Generated at: 2026-10-27 06:05:01 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-No lead message was delivered.
+### Squad lead
+
+Hey Dan - the unowned customer bug and a handover warning with no response need a look today.
+
+🚧 **Worth a look**
+
+[**Reassigned jobs keep notifying the original crew**](https://linear.app/tidebreak-demo/issue/DIS-102/reassigned-jobs-keep-notifying-the-original-crew) (DIS-102) - Urgent, Todo since Oct 20 (~6.5 days), still unowned; removed crews continue receiving reminders and appear alongside replacements, reported twice at one customer site this week, with no reviewable code path found.
+
+[**Warn the crew before a shift handover drops their notes**](https://linear.app/tidebreak-demo/issue/DIS-101/warn-the-crew-before-a-shift-handover-drops-their-notes) (DIS-101) - In Progress since Oct 22 (~4.5 days); [#45](https://github.com/tidebreak-demo/crew-mobile/pull/45) has had requested changes since Oct 23 because the warning fires on every navigation, with no author response or further commits since Oct 22 (~2.5 days).
 
 ## Developer messages
 
-### Tom Lindqvist
-
-Hey Tom - two review threads you could help move along:
-
-🚧 **Needs your next move**
-
-[**Warn the crew before a shift handover drops their notes**](https://linear.app/tidebreak-demo/issue/DIS-101/warn-the-crew-before-a-shift-handover-drops-their-notes) - [PR #45](https://github.com/tidebreak-demo/crew-mobile/pull/45) was asked to limit the warning to actual handovers, with no follow-up yet. Could you make that change or clarify the intended scope?
-
-[**Retry a failed clock-out instead of dropping it**](https://linear.app/tidebreak-demo/issue/DIS-81/retry-a-failed-clock-out-instead-of-dropping-it) - Dan said [PR #44](https://github.com/tidebreak-demo/crew-mobile/pull/44) was on his list on Oct 22, but there is still no review. Could you check in with him or ask another reviewer?
-
-Heads-up for you first - unresolved items may later show in your squad lead's Team Anomalies message.
+No developer messages were delivered.
 
 ## How ShakaFlow decides
 
