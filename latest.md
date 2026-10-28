@@ -1,26 +1,26 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-10-27  
-Generated at: 2026-10-27 06:05:01 UTC
+Date: 2026-10-28  
+Generated at: 2026-10-28 06:03:56 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-### Squad lead
-
-Hey Dan - the unowned customer bug and a handover warning with no response need a look today.
-
-🚧 **Worth a look**
-
-[**Reassigned jobs keep notifying the original crew**](https://linear.app/tidebreak-demo/issue/DIS-102/reassigned-jobs-keep-notifying-the-original-crew) (DIS-102) - Urgent, Todo since Oct 20 (~6.5 days), still unowned; removed crews continue receiving reminders and appear alongside replacements, reported twice at one customer site this week, with no reviewable code path found.
-
-[**Warn the crew before a shift handover drops their notes**](https://linear.app/tidebreak-demo/issue/DIS-101/warn-the-crew-before-a-shift-handover-drops-their-notes) (DIS-101) - In Progress since Oct 22 (~4.5 days); [#45](https://github.com/tidebreak-demo/crew-mobile/pull/45) has had requested changes since Oct 23 because the warning fires on every navigation, with no author response or further commits since Oct 22 (~2.5 days).
+No lead message was delivered.
 
 ## Developer messages
 
-No developer messages were delivered.
+### Maya Ortiz
+
+Hey Maya - one thing you can help get moving today:
+
+🚧 **Needs your next move**
+
+[**Offline photo upload for completed jobs**](https://linear.app/tidebreak-demo/issue/DIS-100/offline-photo-upload-for-completed-jobs) - this urgent work is 6 days overdue with no code path found. Could you establish a reviewable path or update the story with the next step?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ## How ShakaFlow decides
 
