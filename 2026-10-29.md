@@ -12,6 +12,16 @@ No lead message was delivered.
 
 ## Developer messages
 
+### Priya Raman
+
+Hey Priya - one thing you can probably unblock:
+
+🚧 **Needs your next move**
+
+[**Typeahead for site search on the board header**](https://linear.app/tidebreak-demo/issue/DIS-73/typeahead-for-site-search-on-the-board-header) - Dan hasn't replied to your Oct 25 answer on [PR #56](https://github.com/tidebreak-demo/dispatch-web/pull/56); could you nudge him or re-request review?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
+
 ### Maya Ortiz
 
 Hey Maya - one review that may be worth unblocking today:
