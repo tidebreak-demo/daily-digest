@@ -2,13 +2,24 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-10-29  
-Generated at: 2026-10-29 06:03:04 UTC
+Generated at: 2026-10-29 06:03:20 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-No lead message was delivered.
+### Squad lead
+
+Hey Dan - requested reviews are waiting to start and to resume after an author's response.
+
+🚧 **Worth a look**
+
+Sitting with Maya for 1 working day: [**Index dispatch events by job and kind**](https://linear.app/tidebreak-demo/issue/DIS-103/index-dispatch-events-by-job-and-kind) (DIS-103) - In Progress since Oct 25 (~3d 14h); [#60](https://github.com/tidebreak-demo/dispatch-api/pull/60) has had Dan requested as reviewer since Oct 25, with no human review; last substantive commits were Oct 25.
+
+This one is Priya's, sitting with her for 1 working day: [**Typeahead for site search on the board header**](https://linear.app/tidebreak-demo/issue/DIS-73/typeahead-for-site-search-on-the-board-header) (DIS-73) - In Progress since Oct 24 (~4d 14h); [#56](https://github.com/tidebreak-demo/dispatch-web/pull/56) received changes requested Oct 24, Priya answered Oct 25, and there has been no reviewer response or substantive code commit since.
+
+:rocket: **What's done since last digest**  
+:white_check_mark: [DIS-100 Offline photo upload for completed jobs](https://linear.app/tidebreak-demo/issue/DIS-100/offline-photo-upload-for-completed-jobs)
 
 ## Developer messages
 
