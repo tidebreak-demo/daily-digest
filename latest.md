@@ -2,7 +2,7 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-10-29  
-Generated at: 2026-10-29 06:02:58 UTC
+Generated at: 2026-10-29 06:03:04 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -11,6 +11,18 @@ Generated at: 2026-10-29 06:02:58 UTC
 No lead message was delivered.
 
 ## Developer messages
+
+### Tom Lindqvist
+
+Hey Tom - two things you may be able to unblock:
+
+🚧 **Needs your next move**
+
+[**Warn the crew before a shift handover drops their notes**](https://linear.app/tidebreak-demo/issue/DIS-101/warn-the-crew-before-a-shift-handover-drops-their-notes) - Dan's Oct 23 review asked to limit the warning to actual handovers; could you make that scope change or reply with your plan?
+
+[**Retry a failed clock-out instead of dropping it**](https://linear.app/tidebreak-demo/issue/DIS-81/retry-a-failed-clock-out-instead-of-dropping-it) - Dan's review still has not landed since his Oct 22 commitment; could you nudge him or find another reviewer?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ### Priya Raman
 
