@@ -2,7 +2,7 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-10-30  
-Generated at: 2026-10-30 06:02:49 UTC
+Generated at: 2026-10-30 06:02:50 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -11,6 +11,16 @@ Generated at: 2026-10-30 06:02:49 UTC
 No lead message was delivered.
 
 ## Developer messages
+
+### Priya Raman
+
+Hey Priya - one small cleanup you can take care of:
+
+🍏 **Cleanup**
+
+[**Let dispatchers filter the board by certification**](https://linear.app/tidebreak-demo/issue/DIS-104) - [the PR](https://github.com/tidebreak-demo/dispatch-api/pull/63) merged Oct 29, but the issue is still In Review. If that finished the work, could you move it to Done?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ### Maya Ortiz
 
