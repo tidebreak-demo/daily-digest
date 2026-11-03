@@ -1,24 +1,26 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-11-02  
-Generated at: 2026-11-02 06:02:30 UTC
+Date: 2026-11-03  
+Generated at: 2026-11-03 06:02:43 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-### Squad lead
-
-Hey Dan - one stale review state still needs a cleanup decision.
-
-🍏 **Cleanup**
-
-[**Stop double-booking crews across depots**](https://linear.app/tidebreak-demo/issue/DIS-105) (DIS-105) - Still In Review since Oct 28 (~5 days); [#65](https://github.com/tidebreak-demo/dispatch-api/pull/65) closed unmerged Oct 29, while the required depot calendars are still unavailable.
+No lead message was delivered.
 
 ## Developer messages
 
-No developer messages were delivered.
+### Tom Lindqvist
+
+Hey Tom - one thing you could probably unblock:
+
+🚧 **Needs your next move**
+
+[**Index dispatch events by job and kind**](https://linear.app/tidebreak-demo/issue/DIS-107) - [the PR](https://github.com/tidebreak-demo/dispatch-api/pull/71) has had no human review activity since Oct 31. Could you nudge Dan or find another reviewer?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ## How ShakaFlow decides
 
