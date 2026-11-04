@@ -1,30 +1,24 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-11-03  
-Generated at: 2026-11-03 09:58:26 UTC
+Date: 2026-11-04  
+Generated at: 2026-11-04 06:02:24 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-### Squad lead
-
-Hey Dan - an unowned customer bug, an overdue importer, and review decisions need your attention today.
-
-🚧 **Worth a look**
-
-[**Reassigned jobs keep notifying the original crew**](https://linear.app/tidebreak-demo/issue/DIS-109) (DIS-109) - Urgent and unassigned, Todo since Oct 30 (~4 days), with no confirmed code activity; Harbour Facilities reported another case Nov 2, with removed crews still receiving reminders and arriving alongside replacements.
-
-[**Bulk import for a new depot's crew roster**](https://linear.app/tidebreak-demo/issue/DIS-106) (DIS-106) - In Progress since Oct 29 (~5 days), still no confirmed code activity; Urgent, with its Oct 31 due date ~3 days past and no delivery path confirmed for Harbour Facilities' second site.
-
-[**Virtualise the schedule board rows**](https://linear.app/tidebreak-demo/issue/DIS-74) (DIS-74) - In Progress since Oct 30 (~4 days), with no code changes since; on [#60](https://github.com/tidebreak-demo/dispatch-web/pull/60), Dan requested keyboard and print fixes Oct 30, while Maya proposed depot pagination Nov 2 and asked for a design choice.
-
-[**Index dispatch events by job and kind**](https://linear.app/tidebreak-demo/issue/DIS-107) (DIS-107) - Tom's, sitting with him for 1 working day; In Progress since Oct 31 (~3 days), with no code changes since; [#71](https://github.com/tidebreak-demo/dispatch-api/pull/71) has awaited your requested review since Oct 31 (~2 days 19 hours), blocking reporting work.
+No lead message was delivered.
 
 ## Developer messages
 
-No developer messages were delivered.
+### Priya Raman
+
+🚧 **Needs your next move**
+
+[**Retry a failed clock-out instead of dropping it**](https://linear.app/tidebreak-demo/issue/DIS-108) - [PR #52](https://github.com/tidebreak-demo/crew-mobile/pull/52) still has no human review, leaving the short-pay fix waiting. Could you check with Dan or route another reviewer?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ## How ShakaFlow decides
 
