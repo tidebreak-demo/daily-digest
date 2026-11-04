@@ -2,13 +2,20 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-11-04  
-Generated at: 2026-11-04 06:02:24 UTC
+Generated at: 2026-11-04 06:02:28 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-No lead message was delivered.
+### Squad lead
+
+🚧 **Worth a look**
+
+[**Retry a failed clock-out instead of dropping it**](https://linear.app/tidebreak-demo/issue/DIS-108) (DIS-108) - Priya's; In Progress since Nov 1 (~2.6 days), with no code activity since the opening commits. [#52](https://github.com/tidebreak-demo/crew-mobile/pull/52) has had no human review since Nov 1; failed clock-outs can disappear and leave crews paid short.
+
+:rocket: **What's done since last digest**  
+:white_check_mark: [DIS-106 Bulk import for a new depot's crew roster](https://linear.app/tidebreak-demo/issue/DIS-106/bulk-import-for-a-new-depots-crew-roster)
 
 ## Developer messages
 
