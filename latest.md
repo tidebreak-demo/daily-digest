@@ -1,8 +1,8 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-11-05  
-Generated at: 2026-11-05 06:01:58 UTC
+Date: 2026-11-06  
+Generated at: 2026-11-06 06:01:56 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -12,11 +12,11 @@ No lead message was delivered.
 
 ## Developer messages
 
-### Tom Lindqvist
+### Maya Ortiz
 
-🚧 **Needs your next move**
+🍏 **Cleanup**
 
-[**Index dispatch events by job and kind**](https://linear.app/tidebreak-demo/issue/DIS-107) - [PR #71](https://github.com/tidebreak-demo/dispatch-api/pull/71) still has no review after your Nov 2 nudge. Could you follow up with Dan or request another reviewer?
+[**Stop double-booking crews across depots**](https://linear.app/tidebreak-demo/issue/DIS-111) - [PR #74](https://github.com/tidebreak-demo/dispatch-api/pull/74) closed unmerged Nov 5, but the story is still In Review. Could you move it to Backlog while the depot calendar prerequisite is worked out?
 
 Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
