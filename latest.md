@@ -2,15 +2,32 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-11-06  
-Generated at: 2026-11-06 06:01:56 UTC
+Generated at: 2026-11-06 06:02:00 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-No lead message was delivered.
+### Squad lead
+
+🍏 **Cleanup**
+
+[**Stop double-booking crews across depots**](https://linear.app/tidebreak-demo/issue/DIS-111) (DIS-111) - Maya's, sitting with her for 1 working day; In Review since Nov 4 (~1 day 14 hours), but [#74](https://github.com/tidebreak-demo/dispatch-api/pull/74) closed unmerged Nov 5. Each depot needs its own calendar, which does not yet exist; no active branch remains.
+
+:rocket: **What's done since last digest**  
+:white_check_mark: [DIS-109 Reassigned jobs keep notifying the original crew](https://linear.app/tidebreak-demo/issue/DIS-109/reassigned-jobs-keep-notifying-the-original-crew)  
+:white_check_mark: [DIS-107 Index dispatch events by job and kind](https://linear.app/tidebreak-demo/issue/DIS-107/index-dispatch-events-by-job-and-kind)  
+:white_check_mark: [DIS-74 Virtualise the schedule board rows](https://linear.app/tidebreak-demo/issue/DIS-74/virtualise-the-schedule-board-rows)
 
 ## Developer messages
+
+### Priya Raman
+
+🚧 **Needs your next move**
+
+[**Customer-visible arrival window on the job page**](https://linear.app/tidebreak-demo/issue/DIS-112) - due Nov 7, with no reviewable code found yet. If it's ready, open a PR today; otherwise, update the delivery plan before the customer date.
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ### Maya Ortiz
 
