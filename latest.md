@@ -2,13 +2,23 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-11-07  
-Generated at: 2026-11-07 06:03:00 UTC
+Generated at: 2026-11-07 06:03:09 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-No lead message was delivered.
+### Squad lead
+
+🚧 **Worth a look**
+
+[**Customer-visible arrival window on the job page**](https://linear.app/tidebreak-demo/issue/DIS-112) (DIS-112) - Sitting with Priya for 1 working day; Urgent, In Progress since Oct 31 (~6d 15h), due Nov 7, with no reviewable code path found.
+
+[**Retry a failed clock-out instead of dropping it**](https://linear.app/tidebreak-demo/issue/DIS-108) (DIS-108) - Asked Priya ~2 days ago, still no reply; In Progress since Nov 1 (~5d 15h), with no code activity since the Nov 1 commits and no human review on [#52](https://github.com/tidebreak-demo/crew-mobile/pull/52) since it opened Nov 1 (~5.5d).  
+:white_check_mark: Follow-up sent
+
+:rocket: **What's done since last digest**  
+:white_check_mark: [DIS-110 Reassign a crew's day in one pass](https://linear.app/tidebreak-demo/issue/DIS-110/reassign-a-crews-day-in-one-pass)
 
 ## Developer messages
 
