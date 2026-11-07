@@ -1,23 +1,14 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-11-06  
-Generated at: 2026-11-06 06:02:00 UTC
+Date: 2026-11-07  
+Generated at: 2026-11-07 06:03:00 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-### Squad lead
-
-🍏 **Cleanup**
-
-[**Stop double-booking crews across depots**](https://linear.app/tidebreak-demo/issue/DIS-111) (DIS-111) - Maya's, sitting with her for 1 working day; In Review since Nov 4 (~1 day 14 hours), but [#74](https://github.com/tidebreak-demo/dispatch-api/pull/74) closed unmerged Nov 5. Each depot needs its own calendar, which does not yet exist; no active branch remains.
-
-:rocket: **What's done since last digest**  
-:white_check_mark: [DIS-109 Reassigned jobs keep notifying the original crew](https://linear.app/tidebreak-demo/issue/DIS-109/reassigned-jobs-keep-notifying-the-original-crew)  
-:white_check_mark: [DIS-107 Index dispatch events by job and kind](https://linear.app/tidebreak-demo/issue/DIS-107/index-dispatch-events-by-job-and-kind)  
-:white_check_mark: [DIS-74 Virtualise the schedule board rows](https://linear.app/tidebreak-demo/issue/DIS-74/virtualise-the-schedule-board-rows)
+No lead message was delivered.
 
 ## Developer messages
 
@@ -25,15 +16,9 @@ Generated at: 2026-11-06 06:02:00 UTC
 
 🚧 **Needs your next move**
 
-[**Customer-visible arrival window on the job page**](https://linear.app/tidebreak-demo/issue/DIS-112) - due Nov 7, with no reviewable code found yet. If it's ready, open a PR today; otherwise, update the delivery plan before the customer date.
+[**Customer-visible arrival window on the job page**](https://linear.app/tidebreak-demo/issue/DIS-112) - this urgent work is due today, but has no reviewable code path. Could you confirm it is still active and open or link a PR today?
 
-Heads-up for you first - unresolved items may later show in your squad lead's digest.
-
-### Maya Ortiz
-
-🍏 **Cleanup**
-
-[**Stop double-booking crews across depots**](https://linear.app/tidebreak-demo/issue/DIS-111) - [PR #74](https://github.com/tidebreak-demo/dispatch-api/pull/74) closed unmerged Nov 5, but the story is still In Review. Could you move it to Backlog while the depot calendar prerequisite is worked out?
+[**Retry a failed clock-out instead of dropping it**](https://linear.app/tidebreak-demo/issue/DIS-108) - [PR #52](https://github.com/tidebreak-demo/crew-mobile/pull/52) still has no review activity since Nov 1. Could you re-request review or ask Dan and Tom to take it?
 
 Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
