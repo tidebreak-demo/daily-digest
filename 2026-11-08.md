@@ -2,7 +2,7 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-11-08  
-Generated at: 2026-11-08 06:02:48 UTC
+Generated at: 2026-11-08 06:02:58 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -11,6 +11,14 @@ Generated at: 2026-11-08 06:02:48 UTC
 No lead message was delivered.
 
 ## Developer messages
+
+### Priya Raman
+
+🚧 **Needs your next move**
+
+[**Customer-visible arrival window on the job page**](https://linear.app/tidebreak-demo/issue/DIS-112) - the Nov 7 customer commitment is overdue, with no reviewable code path. Could you confirm the delivery path today, or update the story if plans changed?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ### Tom Lindqvist
 
