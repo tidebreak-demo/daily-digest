@@ -1,8 +1,8 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-11-08  
-Generated at: 2026-11-08 06:02:58 UTC
+Date: 2026-11-09  
+Generated at: 2026-11-09 06:02:01 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -12,19 +12,11 @@ No lead message was delivered.
 
 ## Developer messages
 
-### Priya Raman
-
-🚧 **Needs your next move**
-
-[**Customer-visible arrival window on the job page**](https://linear.app/tidebreak-demo/issue/DIS-112) - the Nov 7 customer commitment is overdue, with no reviewable code path. Could you confirm the delivery path today, or update the story if plans changed?
-
-Heads-up for you first - unresolved items may later show in your squad lead's digest.
-
 ### Tom Lindqvist
 
 🍏 **Cleanup**
 
-[**Give each depot its own dispatch queue**](https://linear.app/tidebreak-demo/issue/DIS-113) - [PR #78](https://github.com/tidebreak-demo/dispatch-api/pull/78) merged on Nov 7, but the story is still In Review. Could you move it to Done if the merge finished the work?
+[**Give each depot its own dispatch queue**](https://linear.app/tidebreak-demo/issue/DIS-113) - [PR #78](https://github.com/tidebreak-demo/dispatch-api/pull/78) merged Nov 7; if that finished the work, could you move the issue to Done?
 
 Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
