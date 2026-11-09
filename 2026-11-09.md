@@ -2,13 +2,25 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-11-09  
-Generated at: 2026-11-09 06:02:01 UTC
+Generated at: 2026-11-09 06:02:09 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-No lead message was delivered.
+### Squad lead
+
+🚧 **Worth a look**
+
+[**Crews see yesterday's job list after crossing a timezone**](https://linear.app/tidebreak-demo/issue/DIS-114) (DIS-114) - Urgent, Todo and unassigned since Nov 5 (~4 days), no code activity; Priya reported two more cases at the same depot on Nov 8 at 21:19 Moscow.
+
+🍏 **Cleanup**
+
+[**Give each depot its own dispatch queue**](https://linear.app/tidebreak-demo/issue/DIS-113) (DIS-113) - Tom's, sitting with him for 1 working day; In Review since Nov 6 (~3 days), though [#78](https://github.com/tidebreak-demo/dispatch-api/pull/78) merged Nov 7 at 14:50Z.
+
+:rocket: **What's done since last digest**  
+:white_check_mark: [DIS-112 Customer-visible arrival window on the job page](https://linear.app/tidebreak-demo/issue/DIS-112/customer-visible-arrival-window-on-the-job-page)  
+:white_check_mark: [DIS-108 Retry a failed clock-out instead of dropping it](https://linear.app/tidebreak-demo/issue/DIS-108/retry-a-failed-clock-out-instead-of-dropping-it)
 
 ## Developer messages
 
