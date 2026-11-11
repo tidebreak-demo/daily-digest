@@ -2,13 +2,22 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-11-11  
-Generated at: 2026-11-11 06:03:33 UTC
+Generated at: 2026-11-11 07:15:21 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-No lead message was delivered.
+### Squad lead
+
+🚧 **Worth a look**
+
+[**Two-person sign-off on regulated jobs**](https://linear.app/tidebreak-demo/issue/DIS-116) (DIS-116) - Sitting with Maya for 1 working day; In Progress since Nov 5 (~6 days; the issue also lists a Nov 10 start), due Nov 12, with no linked or confidently matched code found.
+
+[**Keep an audit trail for assignment changes**](https://linear.app/tidebreak-demo/issue/DIS-79) (DIS-79) - Sitting with Maya for 1 working day; In Progress since Nov 7 (~4 days), with no code movement since then. [#79](https://github.com/tidebreak-demo/dispatch-api/pull/79) has been open and out of draft since Nov 7 (~4 days) with no human review; Maya said Nov 9 that compliance review is waiting on it, and Dan is the requested reviewer.
+
+:rocket: **What's done since last digest**  
+:white_check_mark: [DIS-113 Give each depot its own dispatch queue](https://linear.app/tidebreak-demo/issue/DIS-113/give-each-depot-its-own-dispatch-queue)
 
 ## Developer messages
 
