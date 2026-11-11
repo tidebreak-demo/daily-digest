@@ -1,34 +1,24 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-11-09  
-Generated at: 2026-11-09 06:02:09 UTC
+Date: 2026-11-11  
+Generated at: 2026-11-11 06:03:33 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-### Squad lead
-
-🚧 **Worth a look**
-
-[**Crews see yesterday's job list after crossing a timezone**](https://linear.app/tidebreak-demo/issue/DIS-114) (DIS-114) - Urgent, Todo and unassigned since Nov 5 (~4 days), no code activity; Priya reported two more cases at the same depot on Nov 8 at 21:19 Moscow.
-
-🍏 **Cleanup**
-
-[**Give each depot its own dispatch queue**](https://linear.app/tidebreak-demo/issue/DIS-113) (DIS-113) - Tom's, sitting with him for 1 working day; In Review since Nov 6 (~3 days), though [#78](https://github.com/tidebreak-demo/dispatch-api/pull/78) merged Nov 7 at 14:50Z.
-
-:rocket: **What's done since last digest**  
-:white_check_mark: [DIS-112 Customer-visible arrival window on the job page](https://linear.app/tidebreak-demo/issue/DIS-112/customer-visible-arrival-window-on-the-job-page)  
-:white_check_mark: [DIS-108 Retry a failed clock-out instead of dropping it](https://linear.app/tidebreak-demo/issue/DIS-108/retry-a-failed-clock-out-instead-of-dropping-it)
+No lead message was delivered.
 
 ## Developer messages
 
-### Tom Lindqvist
+### Maya Ortiz
 
-🍏 **Cleanup**
+🚧 **Needs your next move**
 
-[**Give each depot its own dispatch queue**](https://linear.app/tidebreak-demo/issue/DIS-113) - [PR #78](https://github.com/tidebreak-demo/dispatch-api/pull/78) merged Nov 7; if that finished the work, could you move the issue to Done?
+[**Two-person sign-off on regulated jobs**](https://linear.app/tidebreak-demo/issue/DIS-116) - there is no linked code path for this work due Nov 12. Could you identify or start the delivery path today?
+
+[**Keep an audit trail for assignment changes**](https://linear.app/tidebreak-demo/issue/DIS-79) - the [PR #79](https://github.com/tidebreak-demo/dispatch-api/pull/79) has had no human review since Nov 7. Could you nudge Dan or re-request review?
 
 Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
