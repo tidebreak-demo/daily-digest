@@ -2,7 +2,7 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-11-13  
-Generated at: 2026-11-13 07:02:02 UTC
+Generated at: 2026-11-13 14:00:40 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -18,6 +18,14 @@ Generated at: 2026-11-13 07:02:02 UTC
 :white_check_mark: [DIS-79 Keep an audit trail for assignment changes](https://linear.app/tidebreak-demo/issue/DIS-79/keep-an-audit-trail-for-assignment-changes)
 
 ## Developer messages
+
+### Tom Lindqvist
+
+🍏 **Cleanup**
+
+[**Paginate the jobs endpoint**](https://linear.app/tidebreak-demo/issue/DIS-117) - [PR #85](https://github.com/tidebreak-demo/dispatch-api/pull/85) merged Nov 12, but the issue is still In Review. If that shipped the work, could you move the issue to Done?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ### Priya Raman
 
