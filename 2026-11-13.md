@@ -2,13 +2,20 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-11-13  
-Generated at: 2026-11-13 06:03:32 UTC
+Generated at: 2026-11-13 07:02:02 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-No lead message was delivered.
+### Squad lead
+
+🚧 **Worth a look**
+
+[**Duplicate dispatches sent when a partner retries**](https://linear.app/tidebreak-demo/issue/DIS-118) (DIS-118) - Urgent and unassigned in Todo since Nov 9 (~4 days); Priya reported another duplicate overnight on Nov 12, and finance noticed. No linked or confidently matched code found; ownership is unresolved.
+
+:rocket: **What's done since last digest**  
+:white_check_mark: [DIS-79 Keep an audit trail for assignment changes](https://linear.app/tidebreak-demo/issue/DIS-79/keep-an-audit-trail-for-assignment-changes)
 
 ## Developer messages
 
