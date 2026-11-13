@@ -1,33 +1,22 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-11-11  
-Generated at: 2026-11-11 07:15:21 UTC
+Date: 2026-11-13  
+Generated at: 2026-11-13 06:03:32 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-### Squad lead
-
-🚧 **Worth a look**
-
-[**Two-person sign-off on regulated jobs**](https://linear.app/tidebreak-demo/issue/DIS-116) (DIS-116) - Sitting with Maya for 1 working day; In Progress since Nov 5 (~6 days; the issue also lists a Nov 10 start), due Nov 12, with no linked or confidently matched code found.
-
-[**Keep an audit trail for assignment changes**](https://linear.app/tidebreak-demo/issue/DIS-79) (DIS-79) - Sitting with Maya for 1 working day; In Progress since Nov 7 (~4 days), with no code movement since then. [#79](https://github.com/tidebreak-demo/dispatch-api/pull/79) has been open and out of draft since Nov 7 (~4 days) with no human review; Maya said Nov 9 that compliance review is waiting on it, and Dan is the requested reviewer.
-
-:rocket: **What's done since last digest**  
-:white_check_mark: [DIS-113 Give each depot its own dispatch queue](https://linear.app/tidebreak-demo/issue/DIS-113/give-each-depot-its-own-dispatch-queue)
+No lead message was delivered.
 
 ## Developer messages
 
-### Maya Ortiz
+### Priya Raman
 
 🚧 **Needs your next move**
 
-[**Two-person sign-off on regulated jobs**](https://linear.app/tidebreak-demo/issue/DIS-116) - there is no linked code path for this work due Nov 12. Could you identify or start the delivery path today?
-
-[**Keep an audit trail for assignment changes**](https://linear.app/tidebreak-demo/issue/DIS-79) - the [PR #79](https://github.com/tidebreak-demo/dispatch-api/pull/79) has had no human review since Nov 7. Could you nudge Dan or re-request review?
+[**Reassign a crew's day in one pass**](https://linear.app/tidebreak-demo/issue/DIS-115) - Dan has not re-reviewed [**PR #75**](https://github.com/tidebreak-demo/dispatch-web/pull/75) since your Nov 10 reply. Could you ask him for a re-check, or request another reviewer?
 
 Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
