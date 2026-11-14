@@ -1,37 +1,22 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-11-13  
-Generated at: 2026-11-13 14:00:40 UTC
+Date: 2026-11-14  
+Generated at: 2026-11-14 06:02:40 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-### Squad lead
-
-🚧 **Worth a look**
-
-[**Duplicate dispatches sent when a partner retries**](https://linear.app/tidebreak-demo/issue/DIS-118) (DIS-118) - Urgent and unassigned in Todo since Nov 9 (~4 days); Priya reported another duplicate overnight on Nov 12, and finance noticed. No linked or confidently matched code found; ownership is unresolved.
-
-:rocket: **What's done since last digest**  
-:white_check_mark: [DIS-79 Keep an audit trail for assignment changes](https://linear.app/tidebreak-demo/issue/DIS-79/keep-an-audit-trail-for-assignment-changes)
+No lead message was delivered.
 
 ## Developer messages
-
-### Tom Lindqvist
-
-🍏 **Cleanup**
-
-[**Paginate the jobs endpoint**](https://linear.app/tidebreak-demo/issue/DIS-117) - [PR #85](https://github.com/tidebreak-demo/dispatch-api/pull/85) merged Nov 12, but the issue is still In Review. If that shipped the work, could you move the issue to Done?
-
-Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ### Priya Raman
 
 🚧 **Needs your next move**
 
-[**Reassign a crew's day in one pass**](https://linear.app/tidebreak-demo/issue/DIS-115) - Dan has not re-reviewed [**PR #75**](https://github.com/tidebreak-demo/dispatch-web/pull/75) since your Nov 10 reply. Could you ask him for a re-check, or request another reviewer?
+[**Reassign a crew's day in one pass**](https://linear.app/tidebreak-demo/issue/DIS-115) - Dan's Nov 9 review still has no post-review code in [PR #75](https://github.com/tidebreak-demo/dispatch-web/pull/75). Push the claimed fix and test so he can re-review, or clarify what's still outstanding.
 
 Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
