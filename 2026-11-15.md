@@ -2,13 +2,20 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-11-15  
-Generated at: 2026-11-15 14:03:08 UTC
+Generated at: 2026-11-15 14:03:11 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-No lead message was delivered.
+### Squad lead
+
+🚧 **Worth a look**
+
+[**Customer-visible arrival window on the job page**](https://linear.app/tidebreak-demo/issue/DIS-120) (DIS-120) - This one is Tom's; Urgent and In Progress since Nov 14 (~23 hours), due Nov 16, with no code activity or reviewable path.
+
+:rocket: **What's done since last digest**  
+:white_check_mark: [DIS-115 Reassign a crew's day in one pass](https://linear.app/tidebreak-demo/issue/DIS-115/reassign-a-crews-day-in-one-pass)
 
 ## Developer messages
 
