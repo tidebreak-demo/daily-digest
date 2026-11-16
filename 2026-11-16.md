@@ -2,7 +2,7 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-11-16  
-Generated at: 2026-11-16 07:01:43 UTC
+Generated at: 2026-11-16 14:03:03 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -19,7 +19,13 @@ Generated at: 2026-11-16 07:01:43 UTC
 
 ## Developer messages
 
-No developer messages were delivered.
+### Maya Ortiz
+
+🚧 **Needs your next move**
+
+[**Warn the crew before a shift handover drops their notes**](https://linear.app/tidebreak-demo/issue/DIS-119) - [PR #69](https://github.com/tidebreak-demo/crew-mobile/pull/69) still needs the Nov 13 review change to limit the warning to actual handovers. Could you make that change and update the PR?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ## How ShakaFlow decides
 
