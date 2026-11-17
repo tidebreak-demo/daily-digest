@@ -1,8 +1,8 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-11-16  
-Generated at: 2026-11-16 14:03:03 UTC
+Date: 2026-11-17  
+Generated at: 2026-11-17 06:02:24 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -12,20 +12,14 @@ Generated at: 2026-11-16 14:03:03 UTC
 
 🚧 **Worth a look**
 
-[**Duplicate dispatches sent when a partner retries**](https://linear.app/tidebreak-demo/issue/DIS-118) (DIS-118) - Urgent and unassigned in Todo since Nov 9 (~6.5 days); Priya reported another duplicate on Nov 12 and finance has noticed. No reviewable code path found.
+[**Warn the crew before a shift handover drops their notes**](https://linear.app/tidebreak-demo/issue/DIS-119) (DIS-119) - Sitting with Maya for 1 working day; In Progress since Nov 13 (~4 days), with no author response or code activity on [#69](https://github.com/tidebreak-demo/crew-mobile/pull/69) since Dan requested the handover-only scope on Nov 13 (~3 days).
 
 :rocket: **What's done since last digest**  
-:white_check_mark: [DIS-117 Paginate the jobs endpoint](https://linear.app/tidebreak-demo/issue/DIS-117/paginate-the-jobs-endpoint)
+:white_check_mark: [DIS-118 Duplicate dispatches sent when a partner retries](https://linear.app/tidebreak-demo/issue/DIS-118/duplicate-dispatches-sent-when-a-partner-retries)
 
 ## Developer messages
 
-### Maya Ortiz
-
-🚧 **Needs your next move**
-
-[**Warn the crew before a shift handover drops their notes**](https://linear.app/tidebreak-demo/issue/DIS-119) - [PR #69](https://github.com/tidebreak-demo/crew-mobile/pull/69) still needs the Nov 13 review change to limit the warning to actual handovers. Could you make that change and update the PR?
-
-Heads-up for you first - unresolved items may later show in your squad lead's digest.
+No developer messages were delivered.
 
 ## How ShakaFlow decides
 
