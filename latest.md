@@ -2,7 +2,7 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-11-17  
-Generated at: 2026-11-17 06:02:24 UTC
+Generated at: 2026-11-17 14:00:37 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -19,7 +19,13 @@ Generated at: 2026-11-17 06:02:24 UTC
 
 ## Developer messages
 
-No developer messages were delivered.
+### Tom Lindqvist
+
+🚧 **Needs your next move**
+
+[**Customer-visible arrival window on the job page**](https://linear.app/tidebreak-demo/issue/DIS-120) - the Nov 16 customer commitment is now overdue, and no reviewable code path was found. Could you share the delivery status or establish a reviewable path?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ## How ShakaFlow decides
 
