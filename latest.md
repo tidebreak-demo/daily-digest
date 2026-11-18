@@ -2,7 +2,7 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-11-18  
-Generated at: 2026-11-18 06:02:44 UTC
+Generated at: 2026-11-18 14:00:33 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -19,7 +19,13 @@ Generated at: 2026-11-18 06:02:44 UTC
 
 ## Developer messages
 
-No developer messages were delivered.
+### Tom Lindqvist
+
+🍏 **Cleanup**
+
+[**Paginate the jobs endpoint**](https://linear.app/tidebreak-demo/issue/DIS-122) - [PR #97](https://github.com/tidebreak-demo/dispatch-api/pull/97) merged Nov 17, but the issue is still In Review. If that finished the work, could you move it to Done?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ## How ShakaFlow decides
 
