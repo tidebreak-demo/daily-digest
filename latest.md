@@ -1,8 +1,8 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-11-17  
-Generated at: 2026-11-17 14:00:37 UTC
+Date: 2026-11-18  
+Generated at: 2026-11-18 06:02:44 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -12,20 +12,14 @@ Generated at: 2026-11-17 14:00:37 UTC
 
 🚧 **Worth a look**
 
-[**Warn the crew before a shift handover drops their notes**](https://linear.app/tidebreak-demo/issue/DIS-119) (DIS-119) - Sitting with Maya for 1 working day; In Progress since Nov 13 (~4 days), with no author response or code activity on [#69](https://github.com/tidebreak-demo/crew-mobile/pull/69) since Dan requested the handover-only scope on Nov 13 (~3 days).
+[**Crews see yesterday's job list after crossing a timezone**](https://linear.app/tidebreak-demo/issue/DIS-123) (DIS-123) - Urgent and unassigned, Todo since Nov 14 (~3d 15h); reports describe crews at three sites getting the previous day's schedule, with two more cases from the same depot reported Nov 17. No correlated PR found.
 
 :rocket: **What's done since last digest**  
-:white_check_mark: [DIS-118 Duplicate dispatches sent when a partner retries](https://linear.app/tidebreak-demo/issue/DIS-118/duplicate-dispatches-sent-when-a-partner-retries)
+:white_check_mark: [DIS-120 Customer-visible arrival window on the job page](https://linear.app/tidebreak-demo/issue/DIS-120/customer-visible-arrival-window-on-the-job-page)
 
 ## Developer messages
 
-### Tom Lindqvist
-
-🚧 **Needs your next move**
-
-[**Customer-visible arrival window on the job page**](https://linear.app/tidebreak-demo/issue/DIS-120) - the Nov 16 customer commitment is now overdue, and no reviewable code path was found. Could you share the delivery status or establish a reviewable path?
-
-Heads-up for you first - unresolved items may later show in your squad lead's digest.
+No developer messages were delivered.
 
 ## How ShakaFlow decides
 
