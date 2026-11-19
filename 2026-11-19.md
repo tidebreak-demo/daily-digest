@@ -2,13 +2,24 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-11-19  
-Generated at: 2026-11-19 06:03:16 UTC
+Generated at: 2026-11-19 12:01:19 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-No lead message was delivered.
+### Squad lead
+
+🚧 **Worth a look**
+
+[**Customer-visible arrival window on the job page**](https://linear.app/tidebreak-demo/issue/DIS-124) (DIS-124) - This one is Tom's: Urgent and In Progress since Nov 13 (~5 days 15 hours), with no code activity; due Nov 20 against the Northgate Retail commitment for this month.
+
+🍏 **Cleanup**
+
+[**Paginate the jobs endpoint**](https://linear.app/tidebreak-demo/issue/DIS-122) (DIS-122) - Cleanup since Nov 17 (~2 days): still In Review although [#97](https://github.com/tidebreak-demo/dispatch-api/pull/97) is merged.
+
+:rocket: **What's done since last digest**  
+:white_check_mark: [DIS-119 Warn the crew before a shift handover drops their notes](https://linear.app/tidebreak-demo/issue/DIS-119/warn-the-crew-before-a-shift-handover-drops-their-notes)
 
 ## Developer messages
 
