@@ -1,29 +1,24 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-11-18  
-Generated at: 2026-11-18 14:00:33 UTC
+Date: 2026-11-19  
+Generated at: 2026-11-19 06:03:16 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-### Squad lead
-
-🚧 **Worth a look**
-
-[**Crews see yesterday's job list after crossing a timezone**](https://linear.app/tidebreak-demo/issue/DIS-123) (DIS-123) - Urgent and unassigned, Todo since Nov 14 (~3d 15h); reports describe crews at three sites getting the previous day's schedule, with two more cases from the same depot reported Nov 17. No correlated PR found.
-
-:rocket: **What's done since last digest**  
-:white_check_mark: [DIS-120 Customer-visible arrival window on the job page](https://linear.app/tidebreak-demo/issue/DIS-120/customer-visible-arrival-window-on-the-job-page)
+No lead message was delivered.
 
 ## Developer messages
 
-### Tom Lindqvist
+### Priya Raman
 
-🍏 **Cleanup**
+🚧 **Needs your next move**
 
-[**Paginate the jobs endpoint**](https://linear.app/tidebreak-demo/issue/DIS-122) - [PR #97](https://github.com/tidebreak-demo/dispatch-api/pull/97) merged Nov 17, but the issue is still In Review. If that finished the work, could you move it to Done?
+[**Typeahead for site search on the board header**](https://linear.app/tidebreak-demo/issue/DIS-121) - you answered the request-volume question on [**PR #81**](https://github.com/tidebreak-demo/dispatch-web/pull/81) on Nov 16, but there has been no re-review since. Could you follow up with Dan or request another reviewer?
+
+You're seeing this first because the reviewer can now assess your answer.
 
 Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
