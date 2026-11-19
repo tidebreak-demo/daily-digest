@@ -2,7 +2,7 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-11-19  
-Generated at: 2026-11-19 12:01:19 UTC
+Generated at: 2026-11-19 14:00:20 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -22,6 +22,14 @@ Generated at: 2026-11-19 12:01:19 UTC
 :white_check_mark: [DIS-119 Warn the crew before a shift handover drops their notes](https://linear.app/tidebreak-demo/issue/DIS-119/warn-the-crew-before-a-shift-handover-drops-their-notes)
 
 ## Developer messages
+
+### Tom Lindqvist
+
+🚧 **Needs your next move**
+
+[**Customer-visible arrival window on the job page**](https://linear.app/tidebreak-demo/issue/DIS-124) - the Northgate Retail commitment is due Nov 20 with no code path found. Could you establish delivery progress or surface a blocker?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ### Priya Raman
 
