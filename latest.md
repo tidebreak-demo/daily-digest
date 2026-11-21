@@ -1,8 +1,8 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-11-19  
-Generated at: 2026-11-19 14:00:20 UTC
+Date: 2026-11-21  
+Generated at: 2026-11-21 06:02:36 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -12,34 +12,14 @@ Generated at: 2026-11-19 14:00:20 UTC
 
 🚧 **Worth a look**
 
-[**Customer-visible arrival window on the job page**](https://linear.app/tidebreak-demo/issue/DIS-124) (DIS-124) - This one is Tom's: Urgent and In Progress since Nov 13 (~5 days 15 hours), with no code activity; due Nov 20 against the Northgate Retail commitment for this month.
-
-🍏 **Cleanup**
-
-[**Paginate the jobs endpoint**](https://linear.app/tidebreak-demo/issue/DIS-122) (DIS-122) - Cleanup since Nov 17 (~2 days): still In Review although [#97](https://github.com/tidebreak-demo/dispatch-api/pull/97) is merged.
+[**Crews see yesterday's job list after crossing a timezone**](https://linear.app/tidebreak-demo/issue/DIS-123) (DIS-123) - Urgent and still unassigned, Todo since Nov 14 (~6.7 days), with no code activity; reports cover three sites, with two more cases reported Nov 17. No owner identified.
 
 :rocket: **What's done since last digest**  
-:white_check_mark: [DIS-119 Warn the crew before a shift handover drops their notes](https://linear.app/tidebreak-demo/issue/DIS-119/warn-the-crew-before-a-shift-handover-drops-their-notes)
+:white_check_mark: [DIS-122 Paginate the jobs endpoint](https://linear.app/tidebreak-demo/issue/DIS-122/paginate-the-jobs-endpoint)
 
 ## Developer messages
 
-### Tom Lindqvist
-
-🚧 **Needs your next move**
-
-[**Customer-visible arrival window on the job page**](https://linear.app/tidebreak-demo/issue/DIS-124) - the Northgate Retail commitment is due Nov 20 with no code path found. Could you establish delivery progress or surface a blocker?
-
-Heads-up for you first - unresolved items may later show in your squad lead's digest.
-
-### Priya Raman
-
-🚧 **Needs your next move**
-
-[**Typeahead for site search on the board header**](https://linear.app/tidebreak-demo/issue/DIS-121) - you answered the request-volume question on [**PR #81**](https://github.com/tidebreak-demo/dispatch-web/pull/81) on Nov 16, but there has been no re-review since. Could you follow up with Dan or request another reviewer?
-
-You're seeing this first because the reviewer can now assess your answer.
-
-Heads-up for you first - unresolved items may later show in your squad lead's digest.
+No developer messages were delivered.
 
 ## How ShakaFlow decides
 
