@@ -2,7 +2,7 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-11-21  
-Generated at: 2026-11-21 06:02:36 UTC
+Generated at: 2026-11-21 14:00:43 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -19,7 +19,15 @@ Generated at: 2026-11-21 06:02:36 UTC
 
 ## Developer messages
 
-No developer messages were delivered.
+### Tom Lindqvist
+
+🚧 **Needs your next move**
+
+[**Customer-visible arrival window on the job page**](https://linear.app/tidebreak-demo/issue/DIS-124) - the Northgate Retail commitment was due Nov 20, and no reviewable code path was found. Could you establish a delivery path now, or re-scope the promise?
+
+This is first because the customer commitment is overdue and no code path is visible.
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ## How ShakaFlow decides
 
