@@ -1,8 +1,8 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-11-21  
-Generated at: 2026-11-21 14:00:43 UTC
+Date: 2026-11-22  
+Generated at: 2026-11-22 06:02:44 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -12,22 +12,14 @@ Generated at: 2026-11-21 14:00:43 UTC
 
 🚧 **Worth a look**
 
-[**Crews see yesterday's job list after crossing a timezone**](https://linear.app/tidebreak-demo/issue/DIS-123) (DIS-123) - Urgent and still unassigned, Todo since Nov 14 (~6.7 days), with no code activity; reports cover three sites, with two more cases reported Nov 17. No owner identified.
+[**Customer-visible arrival window on the job page**](https://linear.app/tidebreak-demo/issue/DIS-124) (DIS-124) - In Progress since Nov 18 (~3 days 14 hours), still no code activity or reviewable path; urgent and due Nov 20 against this month's Northgate Retail commitment.
 
 :rocket: **What's done since last digest**  
-:white_check_mark: [DIS-122 Paginate the jobs endpoint](https://linear.app/tidebreak-demo/issue/DIS-122/paginate-the-jobs-endpoint)
+:white_check_mark: [DIS-123 Crews see yesterday's job list after crossing a timezone](https://linear.app/tidebreak-demo/issue/DIS-123/crews-see-yesterdays-job-list-after-crossing-a-timezone)
 
 ## Developer messages
 
-### Tom Lindqvist
-
-🚧 **Needs your next move**
-
-[**Customer-visible arrival window on the job page**](https://linear.app/tidebreak-demo/issue/DIS-124) - the Northgate Retail commitment was due Nov 20, and no reviewable code path was found. Could you establish a delivery path now, or re-scope the promise?
-
-This is first because the customer commitment is overdue and no code path is visible.
-
-Heads-up for you first - unresolved items may later show in your squad lead's digest.
+No developer messages were delivered.
 
 ## How ShakaFlow decides
 
