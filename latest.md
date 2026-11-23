@@ -1,25 +1,24 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-11-22  
-Generated at: 2026-11-22 06:02:44 UTC
+Date: 2026-11-23  
+Generated at: 2026-11-23 06:02:09 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-### Squad lead
-
-🚧 **Worth a look**
-
-[**Customer-visible arrival window on the job page**](https://linear.app/tidebreak-demo/issue/DIS-124) (DIS-124) - In Progress since Nov 18 (~3 days 14 hours), still no code activity or reviewable path; urgent and due Nov 20 against this month's Northgate Retail commitment.
-
-:rocket: **What's done since last digest**  
-:white_check_mark: [DIS-123 Crews see yesterday's job list after crossing a timezone](https://linear.app/tidebreak-demo/issue/DIS-123/crews-see-yesterdays-job-list-after-crossing-a-timezone)
+No lead message was delivered.
 
 ## Developer messages
 
-No developer messages were delivered.
+### Maya Ortiz
+
+🍏 **Cleanup**
+
+[**Give each depot its own dispatch queue**](https://linear.app/tidebreak-demo/issue/DIS-127) - [PR #107](https://github.com/tidebreak-demo/dispatch-api/pull/107) merged, but the issue still shows In Review. Could you move it to Done?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ## How ShakaFlow decides
 
