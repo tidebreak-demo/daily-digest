@@ -2,13 +2,22 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-11-23  
-Generated at: 2026-11-23 06:02:09 UTC
+Generated at: 2026-11-23 06:02:12 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-No lead message was delivered.
+### Squad lead
+
+🚧 **Worth a look**
+
+[**Virtualise the schedule board rows**](https://linear.app/tidebreak-demo/issue/DIS-125) (DIS-125) - In Progress since Nov 19 (~3 days 18 hours), no code change since Nov 19; Maya's profiling-backed windowing approach conflicts with Tom's depot pagination proposal, and [#89](https://github.com/tidebreak-demo/dispatch-web/pull/89) has changes requested from you.
+
+[**Crews see yesterday's job list after crossing a timezone**](https://linear.app/tidebreak-demo/issue/DIS-128) (DIS-128) - Urgent, Todo since Nov 19 (~3 days 15 hours), unassigned with no code activity; Priya reported two more cases from the same depot on Nov 22.
+
+:rocket: **What's done since last digest**  
+:white_check_mark: [DIS-124 Customer-visible arrival window on the job page](https://linear.app/tidebreak-demo/issue/DIS-124/customer-visible-arrival-window-on-the-job-page)
 
 ## Developer messages
 
