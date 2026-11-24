@@ -1,8 +1,8 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-11-23  
-Generated at: 2026-11-23 06:02:12 UTC
+Date: 2026-11-24  
+Generated at: 2026-11-24 06:02:42 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -10,24 +10,16 @@ Generated at: 2026-11-23 06:02:12 UTC
 
 ### Squad lead
 
-🚧 **Worth a look**
+🍏 **Cleanup**
 
-[**Virtualise the schedule board rows**](https://linear.app/tidebreak-demo/issue/DIS-125) (DIS-125) - In Progress since Nov 19 (~3 days 18 hours), no code change since Nov 19; Maya's profiling-backed windowing approach conflicts with Tom's depot pagination proposal, and [#89](https://github.com/tidebreak-demo/dispatch-web/pull/89) has changes requested from you.
-
-[**Crews see yesterday's job list after crossing a timezone**](https://linear.app/tidebreak-demo/issue/DIS-128) (DIS-128) - Urgent, Todo since Nov 19 (~3 days 15 hours), unassigned with no code activity; Priya reported two more cases from the same depot on Nov 22.
+[**Give each depot its own dispatch queue**](https://linear.app/tidebreak-demo/issue/DIS-127) (DIS-127) - Maya has had this for 1 working day: [#107](https://github.com/tidebreak-demo/dispatch-api/pull/107) merged Nov 22, but the story remains In Review as of Nov 24 (~2 days after merge), with no later state correction.
 
 :rocket: **What's done since last digest**  
-:white_check_mark: [DIS-124 Customer-visible arrival window on the job page](https://linear.app/tidebreak-demo/issue/DIS-124/customer-visible-arrival-window-on-the-job-page)
+:white_check_mark: [DIS-126 Typeahead for site search on the board header](https://linear.app/tidebreak-demo/issue/DIS-126/typeahead-for-site-search-on-the-board-header)
 
 ## Developer messages
 
-### Maya Ortiz
-
-🍏 **Cleanup**
-
-[**Give each depot its own dispatch queue**](https://linear.app/tidebreak-demo/issue/DIS-127) - [PR #107](https://github.com/tidebreak-demo/dispatch-api/pull/107) merged, but the issue still shows In Review. Could you move it to Done?
-
-Heads-up for you first - unresolved items may later show in your squad lead's digest.
+No developer messages were delivered.
 
 ## How ShakaFlow decides
 
