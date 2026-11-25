@@ -1,8 +1,8 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-11-24  
-Generated at: 2026-11-24 14:00:32 UTC
+Date: 2026-11-25  
+Generated at: 2026-11-25 06:03:29 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -10,24 +10,16 @@ Generated at: 2026-11-24 14:00:32 UTC
 
 ### Squad lead
 
-🍏 **Cleanup**
+🚧 **Worth a look**
 
-[**Give each depot its own dispatch queue**](https://linear.app/tidebreak-demo/issue/DIS-127) (DIS-127) - Maya has had this for 1 working day: [#107](https://github.com/tidebreak-demo/dispatch-api/pull/107) merged Nov 22, but the story remains In Review as of Nov 24 (~2 days after merge), with no later state correction.
+[**Two-person sign-off on regulated jobs**](https://linear.app/tidebreak-demo/issue/DIS-129) (DIS-129) - Sitting with Tom for 1 working day; In Progress since Nov 18 (~6d15h), Urgent and due Nov 25, with no issue-specific code activity evidenced.
 
 :rocket: **What's done since last digest**  
-:white_check_mark: [DIS-126 Typeahead for site search on the board header](https://linear.app/tidebreak-demo/issue/DIS-126/typeahead-for-site-search-on-the-board-header)
+:white_check_mark: [DIS-127 Give each depot its own dispatch queue](https://linear.app/tidebreak-demo/issue/DIS-127/give-each-depot-its-own-dispatch-queue)
 
 ## Developer messages
 
-### Tom Lindqvist
-
-🚧 **Needs your next move**
-
-[**Two-person sign-off on regulated jobs**](https://linear.app/tidebreak-demo/issue/DIS-129) - due Nov 25 with no reviewable path yet. Could you confirm the delivery path today, or update the issue if timing has changed?
-
-Flagging this first because the internal due date is tomorrow.
-
-Heads-up for you first - unresolved items may later show in your squad lead's digest.
+No developer messages were delivered.
 
 ## How ShakaFlow decides
 
