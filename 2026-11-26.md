@@ -2,7 +2,7 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-11-26  
-Generated at: 2026-11-26 06:02:49 UTC
+Generated at: 2026-11-26 14:00:58 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -19,7 +19,13 @@ Generated at: 2026-11-26 06:02:49 UTC
 
 ## Developer messages
 
-No developer messages were delivered.
+### Tom Lindqvist
+
+🚧 **Needs your next move**
+
+[**Two-person sign-off on regulated jobs**](https://linear.app/tidebreak-demo/issue/DIS-129) - the Nov 25 due date has passed and there's still no branch. Could you align with Dan on date or staffing, then update the plan?
+
+Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
 ## How ShakaFlow decides
 
