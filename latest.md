@@ -1,8 +1,8 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-11-25  
-Generated at: 2026-11-25 06:03:29 UTC
+Date: 2026-11-26  
+Generated at: 2026-11-26 06:02:49 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -12,10 +12,10 @@ Generated at: 2026-11-25 06:03:29 UTC
 
 🚧 **Worth a look**
 
-[**Two-person sign-off on regulated jobs**](https://linear.app/tidebreak-demo/issue/DIS-129) (DIS-129) - Sitting with Tom for 1 working day; In Progress since Nov 18 (~6d15h), Urgent and due Nov 25, with no issue-specific code activity evidenced.
+[**Crews see yesterday's job list after crossing a timezone**](https://linear.app/tidebreak-demo/issue/DIS-128) (DIS-128) - Todo since Nov 19 (~6 days 15 hours), still unassigned with no code activity found; this Urgent customer issue affects three sites, and Priya reported two more cases from the same depot on Nov 22.
 
 :rocket: **What's done since last digest**  
-:white_check_mark: [DIS-127 Give each depot its own dispatch queue](https://linear.app/tidebreak-demo/issue/DIS-127/give-each-depot-its-own-dispatch-queue)
+:white_check_mark: [DIS-125 Virtualise the schedule board rows](https://linear.app/tidebreak-demo/issue/DIS-125/virtualise-the-schedule-board-rows)
 
 ## Developer messages
 
