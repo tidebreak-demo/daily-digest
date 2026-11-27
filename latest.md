@@ -1,29 +1,22 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-11-26  
-Generated at: 2026-11-26 14:00:58 UTC
+Date: 2026-11-27  
+Generated at: 2026-11-27 14:02:52 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-### Squad lead
-
-🚧 **Worth a look**
-
-[**Crews see yesterday's job list after crossing a timezone**](https://linear.app/tidebreak-demo/issue/DIS-128) (DIS-128) - Todo since Nov 19 (~6 days 15 hours), still unassigned with no code activity found; this Urgent customer issue affects three sites, and Priya reported two more cases from the same depot on Nov 22.
-
-:rocket: **What's done since last digest**  
-:white_check_mark: [DIS-125 Virtualise the schedule board rows](https://linear.app/tidebreak-demo/issue/DIS-125/virtualise-the-schedule-board-rows)
+No lead message was delivered.
 
 ## Developer messages
 
 ### Tom Lindqvist
 
-🚧 **Needs your next move**
+🍏 **Cleanup**
 
-[**Two-person sign-off on regulated jobs**](https://linear.app/tidebreak-demo/issue/DIS-129) - the Nov 25 due date has passed and there's still no branch. Could you align with Dan on date or staffing, then update the plan?
+[**Let dispatchers filter the board by certification**](https://linear.app/tidebreak-demo/issue/DIS-131) - [**PR #113**](https://github.com/tidebreak-demo/dispatch-api/pull/113) merged Nov 26, but the story is still In Review. If that finished the work, could you move it to Done?
 
 Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
