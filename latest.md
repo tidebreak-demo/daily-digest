@@ -1,8 +1,8 @@
 # Team Anomalies
 
 Squad: #tidebreak-dispatch  
-Date: 2026-11-27  
-Generated at: 2026-11-27 14:02:52 UTC
+Date: 2026-11-28  
+Generated at: 2026-11-28 06:02:20 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
@@ -12,11 +12,11 @@ No lead message was delivered.
 
 ## Developer messages
 
-### Tom Lindqvist
+### Priya Raman
 
-🍏 **Cleanup**
+🚧 **Needs your next move**
 
-[**Let dispatchers filter the board by certification**](https://linear.app/tidebreak-demo/issue/DIS-131) - [**PR #113**](https://github.com/tidebreak-demo/dispatch-api/pull/113) merged Nov 26, but the story is still In Review. If that finished the work, could you move it to Done?
+[**Persist board filters per user**](https://linear.app/tidebreak-demo/issue/DIS-130) - Dan's question on [PR #95](https://github.com/tidebreak-demo/dispatch-web/pull/95) still has no follow-up after your Nov 25 answer; could you nudge him or ask another reviewer?
 
 Heads-up for you first - unresolved items may later show in your squad lead's digest.
 
