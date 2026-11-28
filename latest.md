@@ -2,13 +2,24 @@
 
 Squad: #tidebreak-dispatch  
 Date: 2026-11-28  
-Generated at: 2026-11-28 06:02:20 UTC
+Generated at: 2026-11-28 06:02:27 UTC
 
 > The people are invented. The pull requests and their dates are real.
 
 ## Lead message
 
-No lead message was delivered.
+### Squad lead
+
+🚧 **Worth a look**
+
+[**Reassigned jobs keep notifying the original crew**](https://linear.app/tidebreak-demo/issue/DIS-133) (DIS-133) - Urgent and unassigned; Todo (unstarted) since Nov 24 (~3d 15h), with another customer report on Nov 27 of two crews at one job. No linked or confidently correlated code or PR found.
+
+🍏 **Cleanup**
+
+[**Let dispatchers filter the board by certification**](https://linear.app/tidebreak-demo/issue/DIS-131) (DIS-131) - Sitting with Tom for 2 working days; Cleanup since Nov 26: [#113](https://github.com/tidebreak-demo/dispatch-api/pull/113) merged Nov 26 (~1d 15h), but the story remains In Review (started Nov 20, ~7d 15h) with no state correction since the merge.
+
+:rocket: **What's done since last digest**  
+:white_check_mark: [DIS-129 Two-person sign-off on regulated jobs](https://linear.app/tidebreak-demo/issue/DIS-129/two-person-sign-off-on-regulated-jobs)
 
 ## Developer messages
 
